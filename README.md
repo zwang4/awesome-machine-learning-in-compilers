@@ -16,7 +16,7 @@ This repository contains a curated list of awesome research papers, datasets and
    - [Enabling ML in Compilers](#enabling-ml-in-compilers)
 - [Tutorials](#tutorials)
 - [Software](#software)
-- [Datasets](#datasets)
+- [Benchmarks and Datasets](#benchmarks-and-datasets)
 - [Contributions](#contributions)
 
 ## Conferences
@@ -66,17 +66,24 @@ This repository contains a curated list of awesome research papers, datasets and
 
 #### Auto-tuning
 - <img src="https://img.shields.io/badge/17-pages-green.svg" alt="17-pages" align="top"> [TVM: An automated end-to-end optimizing compiler for deep learning](https://www.usenix.org/system/files/osdi18-chen.pdf) - Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Haichen Shen, Meghan Cowan et al., OSDI 2018
+- <img src="https://img.shields.io/badge/25-pages-green.svg" alt="25-pages" align="top"> [Cobayn: Compiler autotuning framework using bayesian networks](https://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf) - Amir Hossein Ashouri, Giovanni Mariani, Gianluca Palermo, Eunjung Park, John Cavazos, and Cristina Silvano, ACM Transactions on Architecture and Code Optimization (TACO), 2016. 
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Autotuning algorithmic choice for input sensitivity](http://groups.csail.mit.edu/commit/papers/2015/yding-pldi15-pbinput.pdf) - Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O'Reilly, and Saman Amarasinghe. PLDI 2015
+- <img src="https://img.shields.io/badge/26-pages-green.svg" alt="26-pages" align="top"> [Fast: A fast stencil autotuning framework based on an optimal-solution space model](http://www.elbagarza.com/pdfs/jia_2015_gpu.pdf) - Yulong Luo, Guangming Tan, Zeyao Mo, and 
+Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015. 
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [GPU performance and power tuning using regression trees](https://dl.acm.org/doi/abs/10.1145/2751205.2751214) - Wenhao Jia, Elba Garza, Kelly A. Shaw, and Margaret Martonosi. SC 2015.
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Opentuner: An extensible framework for program autotuning](https://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf) - Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, and Saman Amarasinghe, PACT 2014
 
 
 #### Parallelism Mapping and Task Scheduling
-- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Improving spark application throughput via memory aware task co-location: A mixture of experts approach](https://zwang4.github.io/publications/middleware17.pdf) - Vicent Sanz Marco, Ben Taylor, Barry Porter, and Zheng Wang, Middleware 2017.
-- <img src="https://img.shields.io/badge/25-pages-green.svg" alt="25-pages" align="top"> [Automatic and portable mapping of data parallel programs to opencl for gpu-based heterogeneous systems](https://zwang4.github.io/publications/zheng_taco_2015.pdf) - Zheng Wang, Dominik Grewe, and Michael O'boyle, ACM Transactions on Architecture and Code Optimization (TACO), 2014.
-- <img src="https://img.shields.io/badge/26-pages-green.svg" alt="26-pages" align="top"> [Automatic and portable mapping of data parallel programs to opencl for gpu-based heterogeneous systems](https://zwang4.github.io/publications/taco14.pdf) - Zheng Wang, Georgios Tournavitis, Björn Franke, and Michael FP O'boyle, ACM Transactions on Architecture and Code Optimization (TACO), 2014.
-- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Smart, adaptive mapping of parallelism in the presence of external workload](https://dl.acm.org/doi/abs/10.1109/CGO.2013.6495010) - Murali Krishna Emani, Zheng Wang, and Michael FP O'Boyle, CGO 2013.
-- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Partitioning streaming parallelism for multi-cores: a machine learning based approach](https://zwang4.github.io/publications/pact10.pdf) - Zheng Wang and Michael O'Boyle, PACT 2010.
-- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Qilin: exploiting parallelism on heterogeneous multiprocessors with adaptive mapping](http://www.sphong.net/MICRO_2009.pdf) - Chi-Keung Luk, Sunpyo Hong, and Hyesoon Kim, MICRO 2009.
-- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Mapping parallelism to multi-cores: a machine learning based approach](http://llvm.org/pubs/2009-02-PPoPP-MappingParallelism.pdf) - Zheng Wang and Michael O'Boyle, PPoPP 2009. 
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Improving spark application throughput via memory aware task co-location: A mixture of experts approach](https://zwang4.github.io/publications/middleware17.pdf) - Vicent Sanz Marco, Ben Taylor, Barry Porter, and Zheng Wang. Middleware 2017.
+- <img src="https://img.shields.io/badge/17-pages-green.svg" alt="17-pages" align="top"> [Quasar: resource-efficient and QoS-aware cluster management](http://csl.stanford.edu/~christos/publications/2014.quasar.asplos.pdf) - Christina Delimitrou, and Christos Kozyrakis. ASPLOS 2014.
+- <img src="https://img.shields.io/badge/25-pages-green.svg" alt="25-pages" align="top"> [Automatic and portable mapping of data parallel programs to opencl for gpu-based heterogeneous systems](https://zwang4.github.io/publications/zheng_taco_2015.pdf) - Zheng Wang, Dominik Grewe, and Michael O'boyle. ACM Transactions on Architecture and Code Optimization (TACO), 2014.
+- <img src="https://img.shields.io/badge/26-pages-green.svg" alt="26-pages" align="top"> [Automatic and portable mapping of data parallel programs to opencl for gpu-based heterogeneous systems](https://zwang4.github.io/publications/taco14.pdf) - Zheng Wang, Georgios Tournavitis, Björn Franke, and Michael FP O'boyle. ACM Transactions on Architecture and Code Optimization (TACO), 2014.
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Smart multi-task scheduling for OpenCL programs on CPU/GPU heterogeneous platforms](http://www.lancaster.ac.uk/staff/wangz3/publications/hipc14.pdf) - Yuan Wen, Zheng Wang, and Michael FP O'Boyle. HiPC 2015.
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Smart, adaptive mapping of parallelism in the presence of external workload](https://dl.acm.org/doi/abs/10.1109/CGO.2013.6495010) - Murali Krishna Emani, Zheng Wang, and Michael O'Boyle. CGO 2013.
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Partitioning streaming parallelism for multi-cores: a machine learning based approach](https://zwang4.github.io/publications/pact10.pdf) - Zheng Wang and Michael O'Boyle. PACT 2010.
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Qilin: exploiting parallelism on heterogeneous multiprocessors with adaptive mapping](http://www.sphong.net/MICRO_2009.pdf) - Chi-Keung Luk, Sunpyo Hong, and Hyesoon Kim. MICRO 2009.
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Mapping parallelism to multi-cores: a machine learning based approach](http://llvm.org/pubs/2009-02-PPoPP-MappingParallelism.pdf) - Zheng Wang and Michael O'Boyle. PPoPP 2009. 
 
 
 #### Domain-specific Optimisation
@@ -88,6 +95,8 @@ This repository contains a curated list of awesome research papers, datasets and
 
 #### Cost Models
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Learning to Optimize Halide with Tree Search and Random Programs](https://dl.acm.org/doi/pdf/10.1145/3306346.3322967) - Andrew Adams, Karima Ma, Luke Anderson, Riyadh Baghdadi, Tzu-Mao Li, Michael Gharbi, Benoit Steiner, Steven Johson, Kayvon Fatahalian, Fredo Durand, Jonathan Ragan-Kelley. ACM Trans Graph, 38(4), 2019.
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Ithemal: Accurate, portable and fast basic block throughput estimation using deep neural networks](http://proceedings.mlr.press/v97/mendis19a/mendis19a.pdf) - Charith Mendis, Alex Renda, Saman Amarasinghe, and Michael Carbin. ICML 2019.
+- <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Absinthe: Learning an Analytical Performance Model to Fuse and Tile Stencil Codes in One Shot](http://unixer.de/publications/img/gysi-absinthe.pdf) - Tobias Gysi, Tobias Grosser, and Torsten Hoefler. PACT 2019.
 
 
 #### Learning Program Representation
@@ -105,7 +114,8 @@ This repository contains a curated list of awesome research papers, datasets and
 - [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf))
 - [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
 
-## Datasets
+## Benchmarks and Datasets
+- [BHive](https://github.com/ithemal/bhive) - A Benchmark Suite and Measurement Framework for Validating x86-64 Basic Block Performance Models ([paper](https://groups.csail.mit.edu/commit/papers/19/ithemal-measurement.pdf)).
 - [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
 - [DeepDataFlow](https://github.com/ChrisCummins/ProGraML/blob/master/programl/Documentation/DataflowDataset.md) - 469k LLVM-IR files and 8.6B data-flow analysis labels for classification labels.
 - [devmap](https://github.com/ChrisCummins/paper-end2end-dl) - 650 OpenCL benchmark features and CPU/GPU classification labels.
