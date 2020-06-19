@@ -7,13 +7,15 @@ This repository contains a curated list of awesome research papers, datasets and
 - [Papers](#papers)
    - [Survey and Tutorials](#survey-and-tutorials)
    - [Tuning Compiler Options and Passes](#tuning-compiler-options-and-passes)
-   - [Cost Models](#cost-models)
+   - [Instruction-level Optimisation](#instruction-level-optimisation)
    - [Parallelism Mapping and Task Scheduling](#parallelism-mapping-and-task-scheduling)
    - [Languages and Compilation](#languages-and-compilation)
    - [Auto-tuning](#auto-tuning)
+   - [Cost Models](#cost-models)
    - [Domain-specific Optimisation](#domain-specific-optimisation)
    - [Learning Program Representation](#learning-program-representation)
    - [Enabling ML in Compilers](#enabling-ml-in-compilers)
+- [Talks](#talks)
 - [Software](#software)
 - [Benchmarks and Datasets](#benchmarks-and-datasets)
 - [Contributions](#contributions)
@@ -64,6 +66,10 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Rapidly selecting good compiler optimizations using performance counters](http://ebonilla.github.io/papers/cavazos-et-al-cgo-2007.pdf) - John Cavazos, Grigori Fursin, Felix Agakov, Edwin Bonilla, Michael FP O'Boyle, and Olivier Temam. CGO 2007. 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Using machine learning to focus iterative optimization](http://homepages.inf.ed.ac.uk/bfranke/Publications/cgo-2006.pdf) - Agakov, Felix, Edwin Bonilla, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, John Thomson, Marc Toussaint, and Christopher KI Williams. CGO 2006. 
 
+#### Instruction-level Optimisation
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler Auto-Vectorization with Imitation Learning](https://papers.nips.cc/paper/9604-compiler-auto-vectorization-with-imitation-learning.pdf) - Charith Mendis, Cambridge Yang, Yewen Pu, Saman P. Amarasinghe, Michael Carbin. NeurIPS 2019. 
+- <img src="https://img.shields.io/badge/7-pages-green.svg" alt="7-pages" align="top"> [Learning to schedule straight-line code](http://papers.nips.cc/paper/1349-learning-to-schedule-straight-line-code.pdf) - J. Eliot B. Moss, Paul E. Utgoff, John Cavazos, Doina Precup, Darko Stefanovic, Carla E. Brodley, and David Scheeff. NeurIPS 1998. 
+
 #### Auto-tuning
 - <img src="https://img.shields.io/badge/17-pages-green.svg" alt="17-pages" align="top"> [TVM: An automated end-to-end optimizing compiler for deep learning](https://www.usenix.org/system/files/osdi18-chen.pdf) - Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Haichen Shen, Meghan Cowan et al., OSDI 2018
 - <img src="https://img.shields.io/badge/25-pages-green.svg" alt="25-pages" align="top"> [Cobayn: Compiler autotuning framework using bayesian networks](https://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf) - Amir Hossein Ashouri, Giovanni Mariani, Gianluca Palermo, Eunjung Park, John Cavazos, and Cristina Silvano, ACM Transactions on Architecture and Code Optimization (TACO), 2016. 
@@ -109,6 +115,10 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 #### Enabling ML in Compilers
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Synthesizing benchmarks for predictive modeling](https://www.pure.ed.ac.uk/ws/files/29479104/2017_cgo_1.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Minimizing the cost of iterative compilation with active learning](http://homepages.inf.ed.ac.uk/hleather/publications/2017-minimitercomp-cgo.pdf) - William Ogilvie, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
+
+## Talks
+- Saman Amarasinghe, [Compiler 2.0: Using Machine Learning to Modernize Compiler Technology](https://www.youtube.com/watch?v=a1w_NKDVdkI). LCTES 2020. 
+
 
 ## Software
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning.
