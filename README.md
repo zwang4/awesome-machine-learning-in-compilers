@@ -1,2 +1,5 @@
-#Must read papers for machine learning in compilers and program optimisation
-Must read research papers and links to tool that are related to using Machine Learning for code optimisation
+# Awesome machine learning for compilers and program optimisation
+This repository contains a curated list of awesome research papers, datasets and tools for applying machine learning techniques to compilers and program optimisation. 
+
+
+## Contents
