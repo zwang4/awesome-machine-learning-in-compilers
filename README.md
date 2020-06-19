@@ -9,6 +9,7 @@ This repository contains a curated list of awesome research papers, datasets and
    - [Choosing Compiler Flags](#choosing-compiler-flags)
    - [Cost Models](#cost-models)
    - [Parallelism Mapping](#parallelism-mapping)
+   - [Languages and Compilation](#language-and-compilation)
    - [Auto-tuning](#auto-tuning)
    - [Learning Program Representation](#learning-program-representation)
    - [Tackling ML Hurdles in Compilers](#tackle-ml-hurdles-in-compilers)
@@ -66,6 +67,11 @@ This repository contains a curated list of awesome research papers, datasets and
 #### Parallelism Mapping
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Partitioning streaming parallelism for multi-cores: a machine learning based approach](https://zwang4.github.io/publications/pact10.pdf) - Zheng Wang and Michael O'Boyle, PACT 2010.
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Mapping parallelism to multi-cores: a machine learning based approach](http://llvm.org/pubs/2009-02-PPoPP-MappingParallelism.pdf) - Zheng Wang and Michael O'Boyle, PPoPP 2009. 
+
+
+#### Languages and Compilation
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines](https://core.ac.uk/download/pdf/20024748.pdf) - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, and Saman Amarasinghe, PLDI 2013. 
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [PetaBricks: a language and compiler for algorithmic choice](http://people.csail.mit.edu/cychan/papers/2009pldi-petabricks.pdf) - Jason Ansel, Cy Chan, Yee Lok Wong, Marek Olszewski, Qin Zhao, Alan Edelman, and Saman Amarasinghe, PLDI 2009. 
 
 #### Cost Models
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Learning to Optimize Halide with Tree Search and Random Programs](https://dl.acm.org/doi/pdf/10.1145/3306346.3322967) - Andrew Adams, Karima Ma, Luke Anderson, Riyadh Baghdadi, Tzu-Mao Li, Michael Gharbi, Benoit Steiner, Steven Johson, Kayvon Fatahalian, Fredo Durand, Jonathan Ragan-Kelley. ACM Trans Graph, 38(4), 2019.
