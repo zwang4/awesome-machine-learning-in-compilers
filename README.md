@@ -7,6 +7,7 @@ This repository contains a curated list of awesome research papers, datasets and
 - [Papers](#papers)
    - [Survey](#survey)
    - [Choosing Compiler Flags](#choosing-compiler-flags)
+   - [Cost Models](#cost-models)
    - [Learning Program Representation](#learning-program-representation)
 - [Tutorials](#tutorials)
 - [Software](#software)
@@ -39,6 +40,7 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/Workshop-Academic-blue.svg" alt="Workshop" align="top"> [Machine Learning and Programming Languages Workshop, MAPL](https://pldi20.sigplan.org/series/mapl)
 - <img src="https://img.shields.io/badge/Workshop-Academic-blue.svg" alt="Workshop" align="top"> [Languages and Compilers for Parallel Computing, LCPC](https://dblp.org/db/conf/lcpc/index)
 - <img src="https://img.shields.io/badge/Conference-Academic-blue.svg" alt="Academic" align="top"> [International Conference on Learning Representations, ICLR](https://dblp1.uni-trier.de/db/conf/iclr/)
+- <img src="https://img.shields.io/badge/Conference-Academic-blue.svg" alt="Academic" align="top"> [Conference on Machine Learning and Systems, MLSys](https://mlsys.org/)
 
 ## Papers
 #### Survey
@@ -51,11 +53,25 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [A Collaborative Filtering Approach for the Automatic Tuning of Compiler Optimisations](https://dl.acm.org/doi/abs/10.1145/3372799.3394361) - Cereda, Stefano, Gianluca Palermo, Paolo Cremonesi, and Stefano Doni, LCTES 2020. 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Using machine learning to focus iterative optimization](http://homepages.inf.ed.ac.uk/bfranke/Publications/cgo-2006.pdf) - Agakov, Felix, Edwin Bonilla, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, John Thomson, Marc Toussaint, and Christopher KI Williams, CGO 2006. 
 
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Autophase: Compiler phase-ordering for hls with deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8735549). Qijing Huang, Ameer Haj-Ali, William Moses, John Xiang, Ion Stoica, Krste Asanovic, John Wawrzynek. FCCM 2019.
+
+#### Cost Models
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Learning to Optimize Halide with Tree Search and Random Programs](https://dl.acm.org/doi/pdf/10.1145/3306346.3322967) - Andrew Adams, Karima Ma, Luke Anderson, Riyadh Baghdadi, Tzu-Mao Li, Michael Gharbi, Benoit Steiner, Steven Johson, Kayvon Fatahalian, Fredo Durand, Jonathan Ragan-Kelley. ACM Trans Graph, 38(4), 2019.
+
 #### Learning Program Representation
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler-based graph representations for deep learning models of code](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2002_Brauckmann_CC.pdf) - Brauckmann, Alexander, Andrés Goens, Sebastian Ertel, and Jeronimo Castrillon, CC 2020.
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Cummins, Chris, Pavlos Petoumenos, Zheng Wang, and Hugh Leather, PACT 2017.
 
 ## Tutorials
+
+## Software
+- [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf)).
+- [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning.
+
+## Datasets
+- [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
+- [DeepDataFlow](https://github.com/ChrisCummins/ProGraML/blob/master/programl/Documentation/DataflowDataset.md) - 469k LLVM-IR files and 8.6B data-flow analysis labels for classification labels.
+- [devmap](https://github.com/ChrisCummins/paper-end2end-dl) - 650 OpenCL benchmark features and CPU/GPU classification labels.
 
 ## Contributions
 
