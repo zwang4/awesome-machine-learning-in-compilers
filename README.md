@@ -67,6 +67,7 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Using machine learning to focus iterative optimization](http://homepages.inf.ed.ac.uk/bfranke/Publications/cgo-2006.pdf) - Agakov, Felix, Edwin Bonilla, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, John Thomson, Marc Toussaint, and Christopher KI Williams. CGO 2006. 
 
 #### Instruction-level Optimisation
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [NeuroVectorizer: end-to-end vectorization with deep reinforcement learning](https://people.eecs.berkeley.edu/~krste/papers/neurovectorizer-cgo2020.pdf) - Ameer Haj-Ali, Nesreen K. Ahmed, Ted Willke, Yakun Sophia Shao, Krste Asanovic, and Ion Stoica. CGO 2020. 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler Auto-Vectorization with Imitation Learning](https://papers.nips.cc/paper/9604-compiler-auto-vectorization-with-imitation-learning.pdf) - Charith Mendis, Cambridge Yang, Yewen Pu, Saman P. Amarasinghe, Michael Carbin. NeurIPS 2019. 
 - <img src="https://img.shields.io/badge/7-pages-green.svg" alt="7-pages" align="top"> [Learning to schedule straight-line code](http://papers.nips.cc/paper/1349-learning-to-schedule-straight-line-code.pdf) - J. Eliot B. Moss, Paul E. Utgoff, John Cavazos, Doina Precup, Darko Stefanovic, Carla E. Brodley, and David Scheeff. NeurIPS 1998. 
 
@@ -125,8 +126,9 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 ## Software
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning.
+- [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
+- [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)).
 - [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf)).
-- [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf))
 - [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
 
 ## Benchmarks and Datasets
