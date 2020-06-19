@@ -52,8 +52,9 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Using machine learning to focus iterative optimization](http://homepages.inf.ed.ac.uk/bfranke/Publications/cgo-2006.pdf) - Agakov, Felix, Edwin Bonilla, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, John Thomson, Marc Toussaint, and Christopher KI Williams, CGO 2006. 
 
 #### Learning Program Representation
-- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler-based graph representations for deep learning models of code](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2002_Brauckmann_CC.pdf) - Brauckmann, Alexander, Andrés Goens, Sebastian Ertel, and Jeronimo Castrillon, CC 2020.
-- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Cummins, Chris, Pavlos Petoumenos, Zheng Wang, and Hugh Leather, PACT 2017.
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler-based graph representations for deep learning models of code](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2002_Brauckmann_CC.pdf) - Alexander Brauckmann, Andrés Goens, Sebastian Ertel, and Jeronimo Castrillon, CC 2020.
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather, PACT 2017.
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle., CGO 2009.
 
 ## Tutorials
 
