@@ -5,14 +5,15 @@ This repository contains a curated list of awesome research papers, datasets and
 ## Contents
 - [Conferences](#conferences)
 - [Papers](#papers)
-   - [Survey](#survey)
-   - [Choosing Compiler Flags](#choosing-compiler-flags)
+   - [Survey and Tutorials](#survey-and-tutorials)
+   - [Tuning Compiler Options and Passes](#tuning-compiler-options-and-passes)
    - [Cost Models](#cost-models)
    - [Parallelism Mapping and Task Scheduling](#parallelism-mapping-and-task-scheduling)
    - [Languages and Compilation](#language-and-compilation)
    - [Auto-tuning](#auto-tuning)
+   - [Domain-specific Optimisation](#domain-specific-optimisation)
    - [Learning Program Representation](#learning-program-representation)
-   - [Tackling ML Hurdles in Compilers](#tackle-ml-hurdles-in-compilers)
+   - [Enabling ML in Compilers](#enabling-ml-in-compilers)
 - [Tutorials](#tutorials)
 - [Software](#software)
 - [Datasets](#datasets)
@@ -49,14 +50,17 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/Conference-Academic-blue.svg" alt="Academic" align="top"> [Conference on Machine Learning and Systems, MLSys](https://mlsys.org/)
 
 ## Papers
-#### Survey
+#### Survey and Tutorials
 - <img src="https://img.shields.io/badge/23-pages-green.svg" alt="23-pages" align="top"> [Machine Learning in Compiler Optimisation](https://zwang4.github.io/publications/pieee18.pdf) - Zheng Wang and Michael O'Boyle, Proceedings of the IEEE, 2018
 - <img src="https://img.shields.io/badge/43-pages-green.svg" alt="43-pages" align="top"> [A survey on compiler autotuning using machine learning](https://dl.acm.org/doi/abs/10.1145/3197978) - Ashouri, Amir H., William Killian, John Cavazos, Gianluca Palermo, and Cristina Silvano, ACM Computing Surveys (CSUR), 2018
 - <img src="https://img.shields.io/badge/43-pages-green.svg" alt="43-pages" align="top"> [A survey of machine learning for big code and naturalness](https://daniel.perez.sh/talks/2018/ml-bigcode-survey.pdf) - Allamanis, Miltiadis, Earl T. Barr, Premkumar Devanbu, and Charles Sutton, ACM Computing Surveys (CSUR), 2018
 
-#### Choosing Compiler Flags
+#### Tuning Compiler Options and Passes
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [A Collaborative Filtering Approach for the Automatic Tuning of Compiler Optimisations](https://dl.acm.org/doi/abs/10.1145/3372799.3394361) - Cereda, Stefano, Gianluca Palermo, Paolo Cremonesi, and Stefano Doni, LCTES 2020. 
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Autophase: Compiler phase-ordering for hls with deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8735549). Qijing Huang, Ameer Haj-Ali, William Moses, John Xiang, Ion Stoica, Krste Asanovic, John Wawrzynek. FCCM 2019.
+- <img src="https://img.shields.io/badge/21-pages-green.svg" alt="21-pages" align="top"> [Micomp: Mitigating the compiler phase-ordering problem using optimization sub-sequences and machine learning](https://core.ac.uk/download/pdf/93751619.pdf) - Amir H. Ashouri, Andrea Bignoli, Gianluca Palermo, Cristina Silvano, Sameer Kulkarni, and John Cavazos. ACM Transactions on Architecture and Code Optimization (TACO) 2017.
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Learning to superoptimize programs](https://arxiv.org/abs/1611.01787v3) - Rudy Bunel, Alban Desmaison, M. Pawan Kumar, Philip H.S. Torr, Pushmeet Kohlim. ICLR 2017
+- <img src="https://img.shields.io/badge/16-pages-green.svg" alt="16-pages" align="top"> [Mitigating the compiler optimization phase-ordering problem using machine learning](https://www.eecis.udel.edu/~cavazos/oopsla-2012.pdf) - Sameer Kulkarni and John Cavazos, OOPSLA 2012
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [MILEPOST GCC: machine learning based research compiler](http://www.fursin.net/papers/fmtp2008.pdf) - Grigori Fursin, Cupertino Miranda, Olivier Temam, Mircea Namolaru, Elad Yom-Tov, Ayal Zaks, Bilha Mendelson et al., 2008
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Using machine learning to focus iterative optimization](http://homepages.inf.ed.ac.uk/bfranke/Publications/cgo-2006.pdf) - Agakov, Felix, Edwin Bonilla, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, John Thomson, Marc Toussaint, and Christopher KI Williams, CGO 2006. 
 
@@ -68,11 +72,15 @@ This repository contains a curated list of awesome research papers, datasets and
 #### Parallelism Mapping and Task Scheduling
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Improving spark application throughput via memory aware task co-location: A mixture of experts approach](https://zwang4.github.io/publications/middleware17.pdf) - Vicent Sanz Marco, Ben Taylor, Barry Porter, and Zheng Wang, Middleware 2017.
 - <img src="https://img.shields.io/badge/25-pages-green.svg" alt="25-pages" align="top"> [Automatic and portable mapping of data parallel programs to opencl for gpu-based heterogeneous systems](https://zwang4.github.io/publications/zheng_taco_2015.pdf) - Zheng Wang, Dominik Grewe, and Michael O'boyle, ACM Transactions on Architecture and Code Optimization (TACO), 2014.
+- <img src="https://img.shields.io/badge/26-pages-green.svg" alt="26-pages" align="top"> [Automatic and portable mapping of data parallel programs to opencl for gpu-based heterogeneous systems](https://zwang4.github.io/publications/taco14.pdf) - Zheng Wang, Georgios Tournavitis, Björn Franke, and Michael FP O'boyle, ACM Transactions on Architecture and Code Optimization (TACO), 2014.
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Smart, adaptive mapping of parallelism in the presence of external workload](https://dl.acm.org/doi/abs/10.1109/CGO.2013.6495010) - Murali Krishna Emani, Zheng Wang, and Michael FP O'Boyle, CGO 2013.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Partitioning streaming parallelism for multi-cores: a machine learning based approach](https://zwang4.github.io/publications/pact10.pdf) - Zheng Wang and Michael O'Boyle, PACT 2010.
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Qilin: exploiting parallelism on heterogeneous multiprocessors with adaptive mapping](http://www.sphong.net/MICRO_2009.pdf) - Chi-Keung Luk, Sunpyo Hong, and Hyesoon Kim, MICRO 2009.
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Mapping parallelism to multi-cores: a machine learning based approach](http://llvm.org/pubs/2009-02-PPoPP-MappingParallelism.pdf) - Zheng Wang and Michael O'Boyle, PPoPP 2009. 
 
+
+#### Domain-specific Optimisation
+- <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Bridging the gap between deep learning and sparse matrix format selection](https://people.engr.ncsu.edu/xshen5/Publications/ppopp18.pdf) -Yue Zhao, Jiajia Li, Chunhua Liao and Xipeng Shen. PPoPP 2018. 
 
 #### Languages and Compilation
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines](https://core.ac.uk/download/pdf/20024748.pdf) - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, and Saman Amarasinghe, PLDI 2013. 
@@ -87,9 +95,9 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather, PACT 2017.
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle. CGO 2009.
 
-#### Tackling ML Hurdles in Compilers
-
-## Tutorials
+#### Enabling ML in Compilers
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Synthesizing benchmarks for predictive modeling](https://www.pure.ed.ac.uk/ws/files/29479104/2017_cgo_1.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Minimizing the cost of iterative compilation with active learning](http://homepages.inf.ed.ac.uk/hleather/publications/2017-minimitercomp-cgo.pdf) - William Ogilvie, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
 
 ## Software
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning.
