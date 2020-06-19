@@ -8,7 +8,7 @@ This repository contains a curated list of awesome research papers, datasets and
    - [Survey](#survey)
    - [Choosing Compiler Flags](#choosing-compiler-flags)
    - [Cost Models](#cost-models)
-   - [Parallelism Mapping](#parallelism-mapping)
+   - [Parallelism Mapping and Task Scheduling](#parallelism-mapping-and-task-scheduling)
    - [Languages and Compilation](#language-and-compilation)
    - [Auto-tuning](#auto-tuning)
    - [Learning Program Representation](#learning-program-representation)
@@ -35,6 +35,7 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [International Conference on Computing Frontiers, CF](http://dblp.uni-trier.de/db/conf/cf)
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Parallel and Distributed Processing Symposium, IPDPS](http://www.ipdps.org/)
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference for High Performance Computing, Networking, Storage, and Analysis, SC](http://supercomputing.org/)
+- <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [EEE/ACM International Symposium on Microarchitecture, Micro](https://dblp1.uni-trier.de/db/conf/micro/)
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference on Compilers, Architectures, and Synthesis for Embedded Systems, CASES](http://dblp.uni-trier.de/db/conf/cases/index.html)
 - <img src="https://img.shields.io/badge/Conference-USENIX-blue.svg" alt="USENIX" align="top"> [USENIX Annul Technical Conference, ATC](https://www.usenix.org/conferences/byname/131)
 - <img src="https://img.shields.io/badge/Conference-USENIX-blue.svg" alt="USENIX" align="top"> [USENIX Symposium on Operating Systems Design and Implementation, OSDI](https://dblp.org/db/conf/osdi/index)
@@ -64,8 +65,12 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Opentuner: An extensible framework for program autotuning](https://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf) - Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, and Saman Amarasinghe, PACT 2014
 
 
-#### Parallelism Mapping
+#### Parallelism Mapping and Task Scheduling
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Improving spark application throughput via memory aware task co-location: A mixture of experts approach](https://zwang4.github.io/publications/middleware17.pdf) - Vicent Sanz Marco, Ben Taylor, Barry Porter, and Zheng Wang, Middleware 2017.
+- <img src="https://img.shields.io/badge/25-pages-green.svg" alt="25-pages" align="top"> [Automatic and portable mapping of data parallel programs to opencl for gpu-based heterogeneous systems](https://zwang4.github.io/publications/zheng_taco_2015.pdf) - Zheng Wang, Dominik Grewe, and Michael O'boyle, ACM Transactions on Architecture and Code Optimization (TACO), 2014.
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Smart, adaptive mapping of parallelism in the presence of external workload](https://dl.acm.org/doi/abs/10.1109/CGO.2013.6495010) - Murali Krishna Emani, Zheng Wang, and Michael FP O'Boyle, CGO 2013.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Partitioning streaming parallelism for multi-cores: a machine learning based approach](https://zwang4.github.io/publications/pact10.pdf) - Zheng Wang and Michael O'Boyle, PACT 2010.
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Qilin: exploiting parallelism on heterogeneous multiprocessors with adaptive mapping](http://www.sphong.net/MICRO_2009.pdf) - Chi-Keung Luk, Sunpyo Hong, and Hyesoon Kim, MICRO 2009.
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Mapping parallelism to multi-cores: a machine learning based approach](http://llvm.org/pubs/2009-02-PPoPP-MappingParallelism.pdf) - Zheng Wang and Michael O'Boyle, PPoPP 2009. 
 
 
