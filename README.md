@@ -1,5 +1,4 @@
-# Awesome machine learning for compilers and program optimisation ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-(https://github.com/zwang4/awesome-machine-learning-in-compilers)
+# Awesome machine learning for compilers and program optimisation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository contains a curated list of awesome research papers, datasets and tools for applying machine learning techniques to compilers and program optimisation. 
 
