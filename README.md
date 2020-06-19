@@ -7,7 +7,9 @@ This repository contains a curated list of awesome research papers, datasets and
 - [Papers](#papers)
    - [Survey](#survey)
    - [Choosing Compiler Flags](#choosing-compiler-flags)
+   - [Parallelism Mapping](#parallelism-mapping)
    - [Learning Program Representation](#learning-program-representation)
+   - [Tackling ML Hurdles in Compilers](#tackle-ml-hurdles-in-compilers)
 - [Tutorials](#tutorials)
 - [Software](#software)
 - [Datasets](#datasets)
@@ -49,12 +51,20 @@ This repository contains a curated list of awesome research papers, datasets and
 
 #### Choosing Compiler Flags
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [A Collaborative Filtering Approach for the Automatic Tuning of Compiler Optimisations](https://dl.acm.org/doi/abs/10.1145/3372799.3394361) - Cereda, Stefano, Gianluca Palermo, Paolo Cremonesi, and Stefano Doni, LCTES 2020. 
+- <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [MILEPOST GCC: machine learning based research compiler](http://www.fursin.net/papers/fmtp2008.pdf) - Grigori Fursin, Cupertino Miranda, Olivier Temam, Mircea Namolaru, Elad Yom-Tov, Ayal Zaks, Bilha Mendelson et al., 2008
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Using machine learning to focus iterative optimization](http://homepages.inf.ed.ac.uk/bfranke/Publications/cgo-2006.pdf) - Agakov, Felix, Edwin Bonilla, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, John Thomson, Marc Toussaint, and Christopher KI Williams, CGO 2006. 
+
+#### Parallelism Mapping
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Mapping parallelism to multi-cores: a machine learning based approach](http://llvm.org/pubs/2009-02-PPoPP-MappingParallelism.pdf) - Zheng Wang and Michael O'Boyle, PPoPP 2009. 
+	
 
 #### Learning Program Representation
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler-based graph representations for deep learning models of code](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2002_Brauckmann_CC.pdf) - Alexander Brauckmann, Andrés Goens, Sebastian Ertel, and Jeronimo Castrillon, CC 2020.
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather, PACT 2017.
-- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle., CGO 2009.
+
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle., CGO 2009.
+
+#### Tackling ML Hurdles in Compilers
 
 ## Tutorials
 
