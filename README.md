@@ -8,6 +8,7 @@ This repository contains a curated list of awesome research papers, datasets and
    - [Survey](#survey)
    - [Choosing Compiler Flags](#choosing-compiler-flags)
    - [Learning Program Representation](#learning-program-representation)
+- [Tutorials](#tutorials)
 - [Software](#software)
 - [Datasets](#datasets)
 - [Contributions](#contributions)
@@ -53,6 +54,8 @@ This repository contains a curated list of awesome research papers, datasets and
 #### Learning Program Representation
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler-based graph representations for deep learning models of code](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2002_Brauckmann_CC.pdf) - Brauckmann, Alexander, Andrés Goens, Sebastian Ertel, and Jeronimo Castrillon, CC 2020.
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Cummins, Chris, Pavlos Petoumenos, Zheng Wang, and Hugh Leather, PACT 2017.
+
+## Tutorials
 
 ## Contributions
 
