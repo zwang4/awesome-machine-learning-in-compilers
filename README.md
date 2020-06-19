@@ -79,8 +79,9 @@ This repository contains a curated list of awesome research papers, datasets and
 ## Tutorials
 
 ## Software
-- [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf)).
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning.
+- [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf)).
+- [OpenTuner](https://github.com/jansel/opentuner) - framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
 
 ## Datasets
 - [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
