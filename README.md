@@ -19,6 +19,7 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/Conference-ACM/IEEE-blue.svg" alt="ACM/IEEE" align="top"> [International Symposium on Code Generation and Optimization, CGO](https://dl.acm.org/conference/cgo)
 - <img src="https://img.shields.io/badge/Conference-ACM/IEEE-blue.svg" alt="ACM/IEEE" align="top"> [International Conference on Parallel Architectures and Compilation Techniques, PACT](https://dl.acm.org/conference/cgo)
 - <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [Object-oriented Programming, Systems, Languages, and Applications, OOPSLA](http://www.sigplan.org/Conferences/OOPSLA/)
+- <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [International Conference on Compiler Construction, CC](https://conf.researchr.org/series/CC)
 - <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [European Conference on Computer Systems, EuroSys](http://dblp.uni-trier.de/db/conf/eurosys/)
 - <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [International Conference on Supercomputing, ICS](http://dblp.uni-trier.de/db/conf/ics/)
 - <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [ACM Symposium on Parallelism in Algorithms and Architectures, SPAA](http://dblp.uni-trier.de/db/conf/spaa/)
@@ -43,10 +44,14 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/23-pages-green.svg" alt="23-pages" align="top"> [Machine Learning in Compiler Optimisation](https://zwang4.github.io/publications/pieee18.pdf) - Zheng Wang and Michael O'Boyle, Proceedings of the IEEE, 2018
 - <img src="https://img.shields.io/badge/43-pages-green.svg" alt="43-pages" align="top"> [A survey on compiler autotuning using machine learning](https://dl.acm.org/doi/abs/10.1145/3197978) - Ashouri, Amir H., William Killian, John Cavazos, Gianluca Palermo, and Cristina Silvano, ACM Computing Surveys (CSUR), 2018
 
+- <img src="https://img.shields.io/badge/43-pages-green.svg" alt="43-pages" align="top"> [A survey of machine learning for big code and naturalness](https://daniel.perez.sh/talks/2018/ml-bigcode-survey.pdf) - Allamanis, Miltiadis, Earl T. Barr, Premkumar Devanbu, and Charles Sutton, ACM Computing Surveys (CSUR), 2018
+
 #### Choosing Compiler Flags
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [A Collaborative Filtering Approach for the Automatic Tuning of Compiler Optimisations](https://dl.acm.org/doi/abs/10.1145/3372799.3394361) - Cereda, Stefano, Gianluca Palermo, Paolo Cremonesi, and Stefano Doni, LCTES 2020. 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Using machine learning to focus iterative optimization](http://homepages.inf.ed.ac.uk/bfranke/Publications/cgo-2006.pdf) - Agakov, Felix, Edwin Bonilla, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, John Thomson, Marc Toussaint, and Christopher KI Williams, CGO 2006. 
 
 #### Learning Program Representation
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler-based graph representations for deep learning models of code](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2002_Brauckmann_CC.pdf) - Brauckmann, Alexander, Andrés Goens, Sebastian Ertel, and Jeronimo Castrillon, CC 2020.
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Cummins, Chris, Pavlos Petoumenos, Zheng Wang, and Hugh Leather, PACT 2017.
 
 ## Contributions
