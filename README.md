@@ -5,7 +5,7 @@ This repository contains a curated list of awesome research papers, datasets and
 ## Contents
 - [Conferences](#conferences)
 - [Papers](#papers)
-   - [Survey Papers](#survey-papers)
+   - [Survey](#survey)
    - [Choosing Compiler Flags](#choosing-compiler-flags)
    - [Learning Program Representation](#learning-program-representation)
 - [Software](#software)
