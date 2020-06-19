@@ -36,6 +36,7 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference for High Performance Computing, Networking, Storage, and Analysis, SC](http://supercomputing.org/)
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference on Compilers, Architectures, and Synthesis for Embedded Systems, CASES](http://dblp.uni-trier.de/db/conf/cases/index.html)
 - <img src="https://img.shields.io/badge/Conference-USENIX-blue.svg" alt="USENIX" align="top"> [USENIX Annul Technical Conference, ATC](https://www.usenix.org/conferences/byname/131)
+- <img src="https://img.shields.io/badge/Conference-USENIX-blue.svg" alt="USENIX" align="top"> [USENIX Symposium on Operating Systems Design and Implementation, OSDI](https://dblp.org/db/conf/osdi/index)
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference on High Performance Computing, Data and Analytics, HiPC](http://dblp.uni-trier.de/db/conf/hipc/index.html)
 - <img src="https://img.shields.io/badge/Conference-IACC-blue.svg" alt="IACC" align="top"> [International Conference on Parallel Processing, ICPP](http://www.wikicfp.com/cfp/program?id=1447&f=International%20Conference%20on%20Parallel%20Processing)
 - <img src="https://img.shields.io/badge/Conference-ACM/IFIP/USENIX-blue.svg" alt="ACM/IFIP/USENIX" align="top"> [International Middleware Conference, Middleware](http://dblp.uni-trier.de/db/conf/middleware/)
@@ -58,6 +59,7 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Using machine learning to focus iterative optimization](http://homepages.inf.ed.ac.uk/bfranke/Publications/cgo-2006.pdf) - Agakov, Felix, Edwin Bonilla, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, John Thomson, Marc Toussaint, and Christopher KI Williams, CGO 2006. 
 
 #### Auto-tuning
+- <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [TVM: An automated end-to-end optimizing compiler for deep learning](https://www.usenix.org/conference/osdi18/presentation/chen) - Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Haichen Shen, Meghan Cowan et al., OSDI 2018
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Opentuner: An extensible framework for program autotuning](https://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf) - Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, and Saman Amarasinghe, PACT 2014
 
 
@@ -72,7 +74,7 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler-based graph representations for deep learning models of code](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2002_Brauckmann_CC.pdf) - Alexander Brauckmann, Andrés Goens, Sebastian Ertel, and Jeronimo Castrillon, CC 2020.
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather, PACT 2017.
 
-- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle., CGO 2009.
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle. CGO 2009.
 
 #### Tackling ML Hurdles in Compilers
 
@@ -81,6 +83,7 @@ This repository contains a curated list of awesome research papers, datasets and
 ## Software
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning.
 - [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf)).
+- [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf))
 - [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
 
 ## Datasets
