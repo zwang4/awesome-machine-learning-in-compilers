@@ -6,6 +6,8 @@ This repository contains a curated list of awesome research papers, datasets and
 - [Conferences](#conferences)
 - [Papers](#papers)
    - [Survey Papers](#survey-papers)
+   - [Choosing Compiler Flags](#choosing-compiler-flags)
+   - [Learning Program Representation](#learning-program-representation)
 - [Software](#software)
 - [Datasets](#datasets)
 - [Contributions](#contributions)
@@ -40,6 +42,13 @@ This repository contains a curated list of awesome research papers, datasets and
 #### Survey Papers
 - <img src="https://img.shields.io/badge/23-pages-green.svg" alt="23-pages" align="top"> [Machine Learning in Compiler Optimisation](https://zwang4.github.io/publications/pieee18.pdf) - Zheng Wang and Michael O'Boyle, Proceedings of the IEEE, 2018
 - <img src="https://img.shields.io/badge/43-pages-green.svg" alt="43-pages" align="top"> [A survey on compiler autotuning using machine learning](https://dl.acm.org/doi/abs/10.1145/3197978) - Ashouri, Amir H., William Killian, John Cavazos, Gianluca Palermo, and Cristina Silvano, ACM Computing Surveys (CSUR), 2018
+
+#### Choosing Compiler Flags
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Using machine learning to focus iterative optimization](http://homepages.inf.ed.ac.uk/bfranke/Publications/cgo-2006.pdf) - Agakov, Felix, Edwin Bonilla, John Cavazos, Björn Franke, Grigori Fursin, Michael FP O'Boyle, John Thomson, Marc Toussaint, and Christopher KI Williams, CGO 2006. 
+
+#### Learning Program Representation
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Cummins, Chris, Pavlos Petoumenos, Zheng Wang, and Hugh Leather, PACT 2017.
+
 ## Contributions
 
 See [Contributions.md](Contributions.md). TL;DR: send me (@zwang4) a [pull request](https://github.com/zwang4/awesome-machine-learning-in-compilers/pulls).
