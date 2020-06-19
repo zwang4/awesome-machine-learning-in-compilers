@@ -93,4 +93,4 @@ This repository contains a curated list of awesome research papers, datasets and
 
 ## Contributions
 
-See [Contributions.md](Contributions.md). TL;DR: send me (@zwang4) a [pull request](https://github.com/zwang4/awesome-machine-learning-in-compilers/pulls).
+See [Contributions.md](Contributions.md). TL;DR: send me ([@zwang4](https://github.com/zwang4)) a [pull request](https://github.com/zwang4/awesome-machine-learning-in-compilers/pulls).
