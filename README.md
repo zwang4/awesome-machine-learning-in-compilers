@@ -72,6 +72,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 #### Parallelism Mapping and Task Scheduling
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Poise: Balancing thread-level parallelism and memory system performance in GPUs using machine learning](https://homepages.inf.ed.ac.uk/vnagaraj/papers/hpca19.pdf) - Saumay Dublish, Vijay Nagarajan, and Nigel Tophama. HPCA 2019.
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Data and thread placement in NUMA architectures: A statistical learning approach](https://www.mcs.anl.gov/research/projects/argo/publications/2019-icpp-denoyelle.pdf) - Nicolas Denoyelle, Brice Goglin, Emmanuel Jeannot, and Thomas Ropars. ICPP 2019.
 - <img src="https://img.shields.io/badge/6-pages-green.svg" alt="6-pages" align="top"> [Code Mapping in Heterogeneous Platforms Using Deep Learning and LLVM-IR](https://iris.polito.it/retrieve/handle/11583/2726074/327896/document_post_print.pdf) - Francesco Barchi, Gianvito Urgese, Enrico Macii, and Andrea Acquaviva. DAC 2019.
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Adaptive optimization for OpenCL programs on embedded heterogeneous systems](https://core.ac.uk/download/pdf/83920402.pdf) - Ben Taylor, Vicent Sanz Marco, and Zheng Wang. LCTES 2017.
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Improving spark application throughput via memory aware task co-location: A mixture of experts approach](https://zwang4.github.io/publications/middleware17.pdf) - Vicent Sanz Marco, Ben Taylor, Barry Porter, and Zheng Wang. Middleware 2017.
@@ -87,6 +88,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 #### Domain-specific Optimisation
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Bridging the gap between deep learning and sparse matrix format selection](https://people.engr.ncsu.edu/xshen5/Publications/ppopp18.pdf) -Yue Zhao, Jiajia Li, Chunhua Liao and Xipeng Shen. PPoPP 2018. 
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Camel: Smart, Adaptive Energy Optimization for Mobile Web Interactions](http://eprints.whiterose.ac.uk/155720/1/paper.pdf) - Jie Ren, Y. Lu, Petteri Nurmi, Xiaoming Wang, Miao Ma, Ling Gao, Zhanyong Tang, Jie Zheng, and Zheng Wang. INFOCOM 2020. 
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Optimizing sorting with genetic algorithms](http://polaris.cs.uiuc.edu/~garzaran/doc/cgo05.pdf) - Xiaoming Li, Maria Jesus Garzaran, and David Padua. CGO 2005. 
 
 
@@ -164,13 +166,13 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Parallel and Distributed Processing Symposium, IPDPS](http://www.ipdps.org/)
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference for High Performance Computing, Networking, Storage, and Analysis, SC](http://supercomputing.org/)
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [EEE/ACM International Symposium on Microarchitecture, Micro](https://dblp1.uni-trier.de/db/conf/micro/)
-- <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference on Compilers, Architectures, and Synthesis for Embedded Systems, CASES](http://dblp.uni-trier.de/db/conf/cases/index.html)
-- <img src="https://img.shields.io/badge/Conference-USENIX-blue.svg" alt="USENIX" align="top"> [USENIX Annul Technical Conference, ATC](https://www.usenix.org/conferences/byname/131)
-- <img src="https://img.shields.io/badge/Conference-USENIX-blue.svg" alt="USENIX" align="top"> [USENIX Symposium on Operating Systems Design and Implementation, OSDI](https://dblp.org/db/conf/osdi/index)
-- <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference on High Performance Computing, Data and Analytics, HiPC](http://dblp.uni-trier.de/db/conf/hipc/index.html)
-- <img src="https://img.shields.io/badge/Conference-IACC-blue.svg" alt="IACC" align="top"> [International Conference on Parallel Processing, ICPP](http://www.wikicfp.com/cfp/program?id=1447&f=International%20Conference%20on%20Parallel%20Processing)
-- <img src="https://img.shields.io/badge/Conference-ACM/IFIP/USENIX-blue.svg" alt="ACM/IFIP/USENIX" align="top"> [International Middleware Conference, Middleware](http://dblp.uni-trier.de/db/conf/middleware/)
-- <img src="https://img.shields.io/badge/Conference-Academic-blue.svg" alt="ACM" align="top"> [European Conference on Parallel Processing, Euro-Par](http://www.wikicfp.com/cfp/program?id=967&f=European)
+<!---- - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference on Compilers, Architectures, and Synthesis for Embedded Systems, CASES](http://dblp.uni-trier.de/db/conf/cases/index.html) --->
+<!---- - <img src="https://img.shields.io/badge/Conference-USENIX-blue.svg" alt="USENIX" align="top"> [USENIX Annul Technical Conference, ATC](https://www.usenix.org/conferences/byname/131) --->
+<!---- - <img src="https://img.shields.io/badge/Conference-USENIX-blue.svg" alt="USENIX" align="top"> [USENIX Symposium on Operating Systems Design and Implementation, OSDI](https://dblp.org/db/conf/osdi/index) --->
+<!---- - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference on High Performance Computing, Data and Analytics, HiPC](http://dblp.uni-trier.de/db/conf/hipc/index.html) --->
+<!---- - <img src="https://img.shields.io/badge/Conference-IACC-blue.svg" alt="IACC" align="top"> [International Conference on Parallel Processing, ICPP](http://www.wikicfp.com/cfp/program?id=1447&f=International%20Conference%20on%20Parallel%20Processing) --->
+<!---- - <img src="https://img.shields.io/badge/Conference-ACM/IFIP/USENIX-blue.svg" alt="ACM/IFIP/USENIX" align="top"> [International Middleware Conference, Middleware](http://dblp.uni-trier.de/db/conf/middleware/)--->
+<!---- <img src="https://img.shields.io/badge/Conference-Academic-blue.svg" alt="ACM" align="top"> [European Conference on Parallel Processing, Euro-Par](http://www.wikicfp.com/cfp/program?id=967&f=European) --->
 - <img src="https://img.shields.io/badge/Workshop-Academic-blue.svg" alt="Workshop" align="top"> [Machine Learning and Programming Languages Workshop, MAPL](https://pldi20.sigplan.org/series/mapl)
 - <img src="https://img.shields.io/badge/Workshop-Academic-blue.svg" alt="Workshop" align="top"> [Languages and Compilers for Parallel Computing, LCPC](https://dblp.org/db/conf/lcpc/index)
 - <img src="https://img.shields.io/badge/Conference-Academic-blue.svg" alt="Academic" align="top"> [International Conference on Learning Representations, ICLR](https://dblp1.uni-trier.de/db/conf/iclr/)
