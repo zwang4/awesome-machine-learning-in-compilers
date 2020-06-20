@@ -97,6 +97,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [PetaBricks: a language and compiler for algorithmic choice](http://people.csail.mit.edu/cychan/papers/2009pldi-petabricks.pdf) - Jason Ansel, Cy Chan, Yee Lok Wong, Marek Olszewski, Qin Zhao, Alan Edelman, and Saman Amarasinghe. PLDI 2009. 
 
 #### Code Size Reduction
+- <img src="https://img.shields.io/badge/7-pages-green.svg" alt="7-pages" align="top"> [Reinforcement Learning Guided Software Debloating](http://www.csl.sri.com/users/gehani/papers/MLSys-2019.DeepOCCAM.pdf) - Nham Le Van, Ashish Gehani, Arie Gurfinkel, Susmit Jha, and Jorge A. Navas. MLSys 2019.
 - <img src="https://img.shields.io/badge/9-pages-green.svg" alt="9-pages" align="top"> [Optimizing for reduced code space using genetic algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.1586&rep=rep1&type=pdf) - Keith D. Cooper, Philip J. Schielke, and Devika Subramanian. LCTES 1999. 
 
 
