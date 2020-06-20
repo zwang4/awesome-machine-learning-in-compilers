@@ -10,7 +10,7 @@ This repository contains a curated list of awesome research papers, datasets and
    - [Instruction-level Optimisation](#instruction-level-optimisation)
    - [Parallelism Mapping and Task Scheduling](#parallelism-mapping-and-task-scheduling)
    - [Languages and Compilation](#languages-and-compilation)
-   - [uto-tuning and Design Space Exploration](#auto-tuning-and-design-space-exploration)
+   - [Auto-tuning and Design Space Exploration](#auto-tuning-and-design-space-exploration)
    - [Code Size Reduction](#code-size-reduction)
    - [Cost and Performance Models](#cost-and-performance-models)
    - [Domain-specific Optimisation](#domain-specific-optimisation)
