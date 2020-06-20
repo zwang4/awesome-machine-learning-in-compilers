@@ -29,6 +29,7 @@ This repository contains a curated list of awesome research papers, datasets and
 - <img src="https://img.shields.io/badge/43-pages-green.svg" alt="43-pages" align="top"> [A survey of machine learning for big code and naturalness](https://daniel.perez.sh/talks/2018/ml-bigcode-survey.pdf) - Allamanis, Miltiadis, Earl T. Barr, Premkumar Devanbu, and Charles Sutton, ACM Computing Surveys (CSUR), 2018
 
 #### Iterative Compilation and Compiler Option Tuning
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Improved basic block reordering](https://arxiv.org/pdf/1809.04676.pdf) - Andy Newell and Sergey Pupyrev. IEEE Transactions on Computers, 2020. 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [A Collaborative Filtering Approach for the Automatic Tuning of Compiler Optimisations](https://dl.acm.org/doi/abs/10.1145/3372799.3394361) - Cereda, Stefano, Gianluca Palermo, Paolo Cremonesi, and Stefano Doni, LCTES 2020. 
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Autophase: Compiler phase-ordering for hls with deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8735549). Qijing Huang, Ameer Haj-Ali, William Moses, John Xiang, Ion Stoica, Krste Asanovic, John Wawrzynek. FCCM 2019.
 - <img src="https://img.shields.io/badge/21-pages-green.svg" alt="21-pages" align="top"> [Micomp: Mitigating the compiler phase-ordering problem using optimization sub-sequences and machine learning](https://core.ac.uk/download/pdf/93751619.pdf) - Amir H. Ashouri, Andrea Bignoli, Gianluca Palermo, Cristina Silvano, Sameer Kulkarni, and John Cavazos. ACM Transactions on Architecture and Code Optimization (TACO) 2017.
@@ -99,7 +100,6 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 
 #### Cost and Performance Models
-- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Improved basic block reordering](https://arxiv.org/pdf/1809.04676.pdf) - Andy Newell and Sergey Pupyrev. IEEE Transactions on Computers, 2020. 
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Learning to Optimize Halide with Tree Search and Random Programs](https://dl.acm.org/doi/pdf/10.1145/3306346.3322967) - Andrew Adams, Karima Ma, Luke Anderson, Riyadh Baghdadi, Tzu-Mao Li, Michael Gharbi, Benoit Steiner, Steven Johson, Kayvon Fatahalian, Fredo Durand, Jonathan Ragan-Kelley. ACM Trans Graph, 2019.
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Ithemal: Accurate, portable and fast basic block throughput estimation using deep neural networks](http://proceedings.mlr.press/v97/mendis19a/mendis19a.pdf) - Charith Mendis, Alex Renda, Saman Amarasinghe, and Michael Carbin. ICML 2019.
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Absinthe: Learning an Analytical Performance Model to Fuse and Tile Stencil Codes in One Shot](http://unixer.de/publications/img/gysi-absinthe.pdf) - Tobias Gysi, Tobias Grosser, and Torsten Hoefler. PACT 2019.
