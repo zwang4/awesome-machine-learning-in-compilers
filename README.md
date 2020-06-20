@@ -173,8 +173,8 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/Conference-IEEE-blue.svg" alt="IEEE" align="top"> [International Conference on High Performance Computing, Data and Analytics, HiPC](http://dblp.uni-trier.de/db/conf/hipc/index.html) 
 - <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [International Conference on Virtual Execution Environments, VEE](http://dblp.uni-trier.de/db/conf/vee/)
 - <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [European Conference on Computer Systems, EuroSys](http://dblp.uni-trier.de/db/conf/eurosys/)
-- <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [ACM Symposium on Parallelism in Algorithms and Architectures, SPAA](http://dblp.uni-trier.de/db/conf/spaa/)--->
-<!---- - <img src="https://img.shields.io/badge/Conference-IACC-blue.svg" alt="IACC" align="top"> [International Conference on Parallel Processing, ICPP](http://www.wikicfp.com/cfp/program?id=1447&f=International%20Conference%20on%20Parallel%20Processing) 
+- <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [ACM Symposium on Parallelism in Algorithms and Architectures, SPAA](http://dblp.uni-trier.de/db/conf/spaa/)
+- <img src="https://img.shields.io/badge/Conference-IACC-blue.svg" alt="IACC" align="top"> [International Conference on Parallel Processing, ICPP](http://www.wikicfp.com/cfp/program?id=1447&f=International%20Conference%20on%20Parallel%20Processing) 
  - <img src="https://img.shields.io/badge/Conference-ACM/IFIP/USENIX-blue.svg" alt="ACM/IFIP/USENIX" align="top"> [International Middleware Conference, Middleware](http://dblp.uni-trier.de/db/conf/middleware/) 
 - <img src="https://img.shields.io/badge/Conference-Academic-blue.svg" alt="ACM" align="top"> [European Conference on Parallel Processing, Euro-Par](http://www.wikicfp.com/cfp/program?id=967&f=European) --->
 
