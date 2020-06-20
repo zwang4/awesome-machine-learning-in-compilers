@@ -1,6 +1,6 @@
 # Awesome machine learning for compilers and program optimisation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository contains a curated list of awesome research papers, datasets and tools for applying machine learning techniques to compilers and program optimisation. 
+This repository contains a curated list of awesome research papers, datasets and tools for applying machine learning techniques to  program optimisation in general and compilers in particular. 
 
 
 ## Contents
@@ -68,6 +68,8 @@ This repository contains a curated list of awesome research papers, datasets and
 Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015. 
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [GPU performance and power tuning using regression trees](https://dl.acm.org/doi/abs/10.1145/2751205.2751214) - Wenhao Jia, Elba Garza, Kelly A. Shaw, and Margaret Martonosi. SC 2015.
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Opentuner: An extensible framework for program autotuning](https://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf) - Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, and Saman Amarasinghe. PACT 2014
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Taming parallel I/O complexity with auto-tuning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.714.1995&rep=rep1&type=pdf) - Babak Behzad, Huong Vu Thanh Luu, Joseph Huchette, Surendra Byna, Ruth Aydt, Quincey Koziol, and Marc Snir. SC 2013.
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [A multi-objective auto-tuning framework for parallel codes](https://www.researchgate.net/profile/Philipp_Gschwandtner/publication/235436717_A_multi-objective_auto-tuning_framework_for_parallel_codes/links/55b5d86b08aed621de02f1d9/A-multi-objective-auto-tuning-framework-for-parallel-codes.pdf) - Herbert Jordan, Peter Thoman, Juan J. Durillo, Simone Pellegrini, Philipp Gschwandtner, Thomas Fahringer, and Hans Moritsch. SC 2012.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Combining models and guided empirical search to optimize for multiple levels of the memory hierarchy](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.532.9511&rep=rep1&type=pdf) - Chun Chen, Jacqueline Chame, and Mary Hall. CGO 2005
 
 #### Parallelism Mapping and Task Scheduling
