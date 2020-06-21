@@ -149,7 +149,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 ## Benchmarks and Datasets
 - [BHive](https://github.com/ithemal/bhive) - A Benchmark Suite and Measurement Framework for Validating x86-64 Basic Block Performance Models ([paper](https://groups.csail.mit.edu/commit/papers/19/ithemal-measurement.pdf)).
 - [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
-- [DeepDataFlow](https://github.com/ChrisCummins/ProGraML/blob/master/programl/Documentation/DataflowDataset.md) - 469k LLVM-IR files and 8.6B data-flow analysis labels for classification labels ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
+- [DeepDataFlow](https://github.com/ChrisCummins/ProGraML/blob/master/programl/Documentation/DataflowDataset.md) - 469k LLVM-IR files and 8.6B data-flow analysis labels for classification ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [devmap](https://github.com/ChrisCummins/paper-end2end-dl) - 650 OpenCL benchmark features and CPU/GPU classification labels ([paper](https://chriscummins.cc/pub/2017-pact.pdf); [slides](https://speakerdeck.com/chriscummins/end-to-end-deep-learning-of-optimization-heuristics-pact-17)).
 
 ## Conferences
