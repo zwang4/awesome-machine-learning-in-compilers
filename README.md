@@ -120,7 +120,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 - <img src="https://img.shields.io/badge/29-pages-green.svg" alt="29-pages" align="top"> [code2vec: Learning distributed representations of code](http://www.cs.technion.ac.il/~mbs/publications/code2vec-popl19.pdf) - Uri Alon, Meital Zilberstein, Omer Levy, and Eran Yahav. POPL 2019.
 - <img src="https://img.shields.io/badge/16-pages-green.svg" alt="16-pages" align="top"> [Learning to Represent Programs with Graphs](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/programGraphs.pdf) - Miltiadis Allamanis, Marc Brockschmidt, and Mahmoud Khademi. ICLR 2018.
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Neural Code Comprehension: A Learnable Representation of Code Semantics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Tal Ben-Nun, Alice Shoshana Jakobovits, and Torsten Hoefler. NeurIPS 2018.
-- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. PACT 2017.
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [End-to-end deep learning of optimization heuristics](http://homepages.inf.ed.ac.uk/hleather/publications/2017-deepopt-pact.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather ([slides](https://speakerdeck.com/chriscummins/end-to-end-deep-learning-of-optimization-heuristics-pact-17)). PACT 2017.
 - <img src="https://img.shields.io/badge/6-pages-green.svg" alt="6-pages" align="top"> [Semantic-aware program sampling](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/nips_2017.pdf) - Pratiksha Thaker, Daniel Tarlow, and Marc Brockschmidt. NeurIPS 2017.
 - <img src="https://img.shields.io/badge/20-pages-green.svg" alt="20-pages" align="top"> [DeepCoder: Learning to write programs](https://www.microsoft.com/en-us/research/uploads/prod/2017/03/main.pdf) - Matej Balog, Alexander L. Gaunt, Marc Brockschmidt,
 Sebastian Nowozin, and Daniel Tarlow. ICLR 2017.
@@ -132,7 +132,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle. CGO 2009.
    
 #### Enabling ML in Compilers
-- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Synthesizing Benchmarks for Predictive Modeling](https://www.pure.ed.ac.uk/ws/files/29479104/2017_cgo_1.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Synthesizing Benchmarks for Predictive Modeling](https://www.pure.ed.ac.uk/ws/files/29479104/2017_cgo_1.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather ([slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)). CGO 2017.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Minimizing the cost of iterative compilation with active learning](http://homepages.inf.ed.ac.uk/hleather/publications/2017-minimitercomp-cgo.pdf) - William Ogilvie, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
 
 ## Talks and Tutorials
@@ -140,17 +140,17 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 
 
 ## Software
-- [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning.
+- [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
 - [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)).
-- [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf)).
+- [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf); [slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)).
 - [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
 
 ## Benchmarks and Datasets
 - [BHive](https://github.com/ithemal/bhive) - A Benchmark Suite and Measurement Framework for Validating x86-64 Basic Block Performance Models ([paper](https://groups.csail.mit.edu/commit/papers/19/ithemal-measurement.pdf)).
 - [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
-- [DeepDataFlow](https://github.com/ChrisCummins/ProGraML/blob/master/programl/Documentation/DataflowDataset.md) - 469k LLVM-IR files and 8.6B data-flow analysis labels for classification labels.
-- [devmap](https://github.com/ChrisCummins/paper-end2end-dl) - 650 OpenCL benchmark features and CPU/GPU classification labels.
+- [DeepDataFlow](https://github.com/ChrisCummins/ProGraML/blob/master/programl/Documentation/DataflowDataset.md) - 469k LLVM-IR files and 8.6B data-flow analysis labels for classification labels ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
+- [devmap](https://github.com/ChrisCummins/paper-end2end-dl) - 650 OpenCL benchmark features and CPU/GPU classification labels ([paper](https://chriscummins.cc/pub/2017-pact.pdf); [slides](https://speakerdeck.com/chriscummins/end-to-end-deep-learning-of-optimization-heuristics-pact-17)).
 
 ## Conferences
 - <img src="https://img.shields.io/badge/Conference-ACM-blue.svg" alt="ACM" align="top"> [ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI](https://www.sigplan.org/Conferences/PLDI/)
