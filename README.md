@@ -125,6 +125,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 - <img src="https://img.shields.io/badge/6-pages-green.svg" alt="6-pages" align="top"> [Semantic-aware program sampling](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/nips_2017.pdf) - Pratiksha Thaker, Daniel Tarlow, and Marc Brockschmidt. NeurIPS 2017.
 - <img src="https://img.shields.io/badge/20-pages-green.svg" alt="20-pages" align="top"> [DeepCoder: Learning to write programs](https://www.microsoft.com/en-us/research/uploads/prod/2017/03/main.pdf) - Matej Balog, Alexander L. Gaunt, Marc Brockschmidt,
 Sebastian Nowozin, and Daniel Tarlow. ICLR 2017.
+- <img src="https://img.shields.io/badge/7-pages-green.svg" alt="7-pages" align="top"> [Convolutional neural networks over tree structures for programming language processing](http://sei.pku.edu.cn/~zhanglu/Download/AAAI16.pdf) - Lili Mou, Ge Li, Lu Zhang, Tao Wang, and Zhi Jin. AAAI 2016.
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [A Convolutional Attention Network
 for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allamanis16.pdf) - Miltos Allamanis, Hao Peng, and Charles Sutton. ICML 2016.
 - <img src="https://img.shields.io/badge/9-pages-green.svg" alt="9-pages" align="top"> [Structured Generative Models of Natural Source Code](http://proceedings.mlr.press/v32/maddison14.pdf) - Chris Maddison and Daniel Tarlow. ICML 2014.
