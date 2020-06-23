@@ -20,7 +20,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 - [Software](#software)
 - [Benchmarks and Datasets](#benchmarks-and-datasets)
 - [Conferences](#conferences)
-- [Contributions](#contributions)
+- [How to Contribute](#how-to-contribute)
 
 ## Papers
 #### Survey
@@ -182,6 +182,6 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
  - <img src="https://img.shields.io/badge/Conference-ACM/IFIP/USENIX-blue.svg" alt="ACM/IFIP/USENIX" align="top"> [International Middleware Conference, Middleware](http://dblp.uni-trier.de/db/conf/middleware/) 
 - <img src="https://img.shields.io/badge/Conference-Academic-blue.svg" alt="ACM" align="top"> [European Conference on Parallel Processing, Euro-Par](http://www.wikicfp.com/cfp/program?id=967&f=European) --->
 
-## Contributions
+## How to Contribute
 
-See [Contribution Guidelines](Contributions.md). TL;DR: send me ([@zwang4](https://github.com/zwang4)) a [pull request](https://github.com/zwang4/awesome-machine-learning-in-compilers/pulls).
+See [Contribution Guidelines](Contributions.md). TL;DR: send one of the [maintainers](MAINTAINERS) a [pull request](https://github.com/zwang4/awesome-machine-learning-in-compilers/pulls).
