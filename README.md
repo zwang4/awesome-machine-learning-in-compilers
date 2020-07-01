@@ -116,6 +116,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Accurate static estimators for program optimization](https://dl.acm.org/doi/abs/10.1145/178243.178251) - Tim A. Wagner, Vance Maverick, Susan L. Graham, and Michael A. Harrison. PLDI 1994. 
 
 #### Learning Program Representation
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://arxiv.org/pdf/2005.02161.pdf) - Jiayi Wei, Maruth Goyal, Greg Durrett, and Isil Dillig. ICLR 2020.
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Compiler-based graph representations for deep learning models of code](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2002_Brauckmann_CC.pdf) - Alexander Brauckmann, Andrés Goens, Sebastian Ertel, and Jeronimo Castrillon. CC 2020.
 - <img src="https://img.shields.io/badge/21-pages-green.svg" alt="24-pages" align="top"> [Generative Code Modeling with Graphs](https://arxiv.org/pdf/1805.08490.pdf) - Marc Brockschmidt, Miltos Allamanis, Alexander L. Gaunt, and Oleksandr Polozov. ICLR 2019.
 - <img src="https://img.shields.io/badge/22-pages-green.svg" alt="22-pages" align="top"> [code2seq: Generating sequences from structured representations of code](https://arxiv.org/pdf/1808.01400) - Uri Alon, Shaked Brody, Omer Levy, and Eran Yahav. ICLR 2019.
