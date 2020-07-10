@@ -192,4 +192,4 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 
 ## How to Contribute
 
-See [Contribution Guidelines](Contributions.md). TL;DR: send one of the [maintainers](MAINTAINERS) a [pull request](https://github.com/zwang4/awesome-machine-learning-in-compilers/pulls).
+See [Contribution Guidelines](CONTRIBUTING.md). TL;DR: send one of the [maintainers](MAINTAINERS) a [pull request](https://github.com/zwang4/awesome-machine-learning-in-compilers/pulls).
