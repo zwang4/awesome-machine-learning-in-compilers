@@ -145,7 +145,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Synthesizing Benchmarks for Predictive Modeling](https://www.pure.ed.ac.uk/ws/files/29479104/2017_cgo_1.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather ([slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)). CGO 2017.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Minimizing the cost of iterative compilation with active learning](http://homepages.inf.ed.ac.uk/hleather/publications/2017-minimitercomp-cgo.pdf) - William Ogilvie, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
 
-## Talks and Tutorials
+## Books
 
 - <img src="https://img.shields.io/badge/118-pages-green.svg" alt="118-pages" align="top"> [Minimizing the cost of iterative compilation with active learning](https://link.springer.com/book/10.1007/978-3-319-71489-9) - Amir H. Ashouri, Gianluca Palermo, John Cavazos, and Cristina Silvano. Springer 2018.
 - <img src="https://img.shields.io/badge/377-pages-green.svg" alt="377-pages" align="top"> [Software Automatic Tuning - From Concepts to State-of-the-Art Results](https://www.springer.com/gp/book/9781441969347) - K Naono, K Teranishi, J Cavazos, and R Suda. Springer 2010.
