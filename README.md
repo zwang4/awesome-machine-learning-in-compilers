@@ -146,7 +146,6 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Minimizing the cost of iterative compilation with active learning](http://homepages.inf.ed.ac.uk/hleather/publications/2017-minimitercomp-cgo.pdf) - William Ogilvie, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
 
 ## Books
-
 - <img src="https://img.shields.io/badge/118-pages-green.svg" alt="118-pages" align="top"> [Automatic Tuning of Compilers Using Machine Learning](https://link.springer.com/book/10.1007/978-3-319-71489-9) - Amir H. Ashouri, Gianluca Palermo, John Cavazos, and Cristina Silvano. Springer 2018.
 - <img src="https://img.shields.io/badge/377-pages-green.svg" alt="377-pages" align="top"> [Software Automatic Tuning - From Concepts to State-of-the-Art Results](https://www.springer.com/gp/book/9781441969347) - K Naono, K Teranishi, J Cavazos, and R Suda. Springer 2010.
 
@@ -209,4 +208,3 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 ## How to Contribute
 
 See [Contribution Guidelines](CONTRIBUTING.md). TL;DR: send one of the [maintainers](MAINTAINERS) a [pull request](https://github.com/zwang4/awesome-machine-learning-in-compilers/pulls).
-
