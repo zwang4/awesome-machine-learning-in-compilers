@@ -113,7 +113,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 
 #### Cost and Performance Models
-- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Learning to Optimize Halide with Tree Search and Random Programs](https://ieeexplore.ieee.org/document/9139798) - Jiepeng Zhang, Jingwei Sun, Wenju Zhou, Guangzhong Sun. IPDPS 2020.
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [An Active Learning Method for Empirical Modeling in Performance Tuning](https://ieeexplore.ieee.org/document/9139798) - Jiepeng Zhang, Jingwei Sun, Wenju Zhou, Guangzhong Sun. IPDPS 2020.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Learning to Optimize Halide with Tree Search and Random Programs](https://dl.acm.org/doi/pdf/10.1145/3306346.3322967) - Andrew Adams, Karima Ma, Luke Anderson, Riyadh Baghdadi, Tzu-Mao Li, Michael Gharbi, Benoit Steiner, Steven Johson, Kayvon Fatahalian, Fredo Durand, Jonathan Ragan-Kelley. ACM Trans Graph, 2019.
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Ithemal: Accurate, portable and fast basic block throughput estimation using deep neural networks](http://proceedings.mlr.press/v97/mendis19a/mendis19a.pdf) - Charith Mendis, Alex Renda, Saman Amarasinghe, and Michael Carbin. ICML 2019.
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Absinthe: Learning an Analytical Performance Model to Fuse and Tile Stencil Codes in One Shot](http://unixer.de/publications/img/gysi-absinthe.pdf) - Tobias Gysi, Tobias Grosser, and Torsten Hoefler. PACT 2019.
