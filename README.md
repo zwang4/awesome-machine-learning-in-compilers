@@ -178,7 +178,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
 
 ## Benchmarks and Datasets
-- [ANGHABENCH] (http://cuda.dcc.ufmg.br/angha/benchmarks) - A suite with One Million Compilable C Benchmarks ([paper](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf))
+- [ANGHABENCH](http://cuda.dcc.ufmg.br/angha/benchmarks) - A suite with One Million Compilable C Benchmarks ([paper](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf))
 - [BHive](https://github.com/ithemal/bhive) - A Benchmark Suite and Measurement Framework for Validating x86-64 Basic Block Performance Models ([paper](https://groups.csail.mit.edu/commit/papers/19/ithemal-measurement.pdf)).
 - [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
 - [PolyBench - Dataset](https://github.com/stefanocereda/polybench_data) - Multiple datasets for Polybench ([paper](https://dl.acm.org/doi/abs/10.1145/3372799.3394361 ))
