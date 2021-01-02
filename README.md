@@ -114,10 +114,10 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [PetaBricks: a language and compiler for algorithmic choice](http://people.csail.mit.edu/cychan/papers/2009pldi-petabricks.pdf) - Jason Ansel, Cy Chan, Yee Lok Wong, Marek Olszewski, Qin Zhao, Alan Edelman, and Saman Amarasinghe. PLDI 2009. 
 
 #### Code Size Reduction
+- <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [ANGHABENCH: a Suite with One Million
+Compilable C Benchmarks for Code-Size Reduction](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf) - Anderson Faustino da Silva, Bruno Conde Kind, Jose Wesley de Souza Magalhaes, Jeronimo Nunes Rocha, Breno Campos Ferreira Guimaraes, Fernando Magno Quintao Pereira. CGO 2021. [Code and Data](http://cuda.dcc.ufmg.br/angha/home)
 - <img src="https://img.shields.io/badge/7-pages-green.svg" alt="7-pages" align="top"> [Reinforcement Learning Guided Software Debloating](http://www.csl.sri.com/users/gehani/papers/MLSys-2019.DeepOCCAM.pdf) - Nham Le Van, Ashish Gehani, Arie Gurfinkel, Susmit Jha, and Jorge A. Navas. MLSys 2019.
 - <img src="https://img.shields.io/badge/9-pages-green.svg" alt="9-pages" align="top"> [Optimizing for reduced code space using genetic algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.1586&rep=rep1&type=pdf) - Keith D. Cooper, Philip J. Schielke, and Devika Subramanian. LCTES 1999. 
-
-
 
 #### Cost and Performance Models
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [An Active Learning Method for Empirical Modeling in Performance Tuning](https://ieeexplore.ieee.org/document/9139798) - Jiepeng Zhang, Jingwei Sun, Wenju Zhou, Guangzhong Sun. IPDPS 2020.
@@ -178,6 +178,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
 
 ## Benchmarks and Datasets
+- [ANGHABENCH] (http://cuda.dcc.ufmg.br/angha/benchmarks) - A suite with One Million Compilable C Benchmarks ([paper](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf))
 - [BHive](https://github.com/ithemal/bhive) - A Benchmark Suite and Measurement Framework for Validating x86-64 Basic Block Performance Models ([paper](https://groups.csail.mit.edu/commit/papers/19/ithemal-measurement.pdf)).
 - [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
 - [PolyBench - Dataset](https://github.com/stefanocereda/polybench_data) - Multiple datasets for Polybench ([paper](https://dl.acm.org/doi/abs/10.1145/3372799.3394361 ))
