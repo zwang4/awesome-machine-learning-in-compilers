@@ -115,6 +115,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [PetaBricks: a language and compiler for algorithmic choice](http://people.csail.mit.edu/cychan/papers/2009pldi-petabricks.pdf) - Jason Ansel, Cy Chan, Yee Lok Wong, Marek Olszewski, Qin Zhao, Alan Edelman, and Saman Amarasinghe. PLDI 2009. 
 
 #### Code Size Reduction
+- [MLGO: a Machine Learning Guided Compiler Optimizations Framework](https://arxiv.org/abs/2101.04808) - Mircea Trofin, Yundi Qian, Eugene Brevdo, Zinan Lin, Krzysztof Choromanski, David Li. arXiv. [Code]
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [ANGHABENCH: a Suite with One Million
 Compilable C Benchmarks for Code-Size Reduction](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf) - Anderson Faustino da Silva, Bruno Conde Kind, Jose Wesley de Souza Magalhaes, Jeronimo Nunes Rocha, Breno Campos Ferreira Guimaraes, Fernando Magno Quintao Pereira. CGO 2021. [Code and Data](http://cuda.dcc.ufmg.br/angha/home)
 - <img src="https://img.shields.io/badge/7-pages-green.svg" alt="7-pages" align="top"> [Reinforcement Learning Guided Software Debloating](http://www.csl.sri.com/users/gehani/papers/MLSys-2019.DeepOCCAM.pdf) - Nham Le Van, Ashish Gehani, Arie Gurfinkel, Susmit Jha, and Jorge A. Navas. MLSys 2019.
@@ -131,6 +132,7 @@ Compilable C Benchmarks for Code-Size Reduction](https://homepages.dcc.ufmg.br/~
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Accurate static estimators for program optimization](https://dl.acm.org/doi/abs/10.1145/178243.178251) - Tim A. Wagner, Vance Maverick, Susan L. Graham, and Michael A. Harrison. PLDI 1994. 
 
 #### Learning Program Representation
+- [Compiler-Based Graph Representations for Deep Learning Models of Code](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2002_Brauckmann_CC.pdf) - Alexander Brauckmann, Andrés Goens, Sebastian Ertel, Jeronimo Castrillon, CC 2020
 - <img src="https://img.shields.io/badge/27-pages-green.svg" alt="27-pages" align="top"> [IR2VEC: LLVM IR Based Scalable Program Embeddings](https://dl.acm.org/doi/10.1145/3418463) - S. VenkataKeerthy, Rohit Aggarwal, Shalini Jain, Maunendra Sankar Desarkar, Ramakrishna Upadrasta and Y. N. Srikant. TACO 2020.
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Deep Program Structure Modeling Through Multi-Relational Graph-based Learning](https://zwang4.github.io/publications/pact20.pdf) - Guixin Ye, Zhanyong Tang, Huanting Wang, Jianbin Fang, Songfang Huang and Zheng Wang. PACT 2020.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Global Relational Models of Source Code](https://openreview.net/pdf?id=B1lnbRNtwr) - Vincent J. Hellendoorn, Charles Sutton, Rishabh Singh, Petros Maniatis, David Bieber, ICLR 2020. ([Data and Code](https://github.com/VHellendoorn/ICLR20-Great))
