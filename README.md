@@ -164,6 +164,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle. CGO 2009.
    
 #### Enabling ML in Compilers
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Deep NLP-based co-evolvement for synthesizing code analysis from natural language](https://dl.acm.org/doi/10.1145/3446804.3446852) - Zifan  Nan， Hui  Guan，Xipeng Shen,  Chunhua  Liao. CC 2021
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Synthesizing Benchmarks for Predictive Modeling](https://www.pure.ed.ac.uk/ws/files/29479104/2017_cgo_1.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather ([slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)). CGO 2017.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Minimizing the cost of iterative compilation with active learning](http://homepages.inf.ed.ac.uk/hleather/publications/2017-minimitercomp-cgo.pdf) - William Ogilvie, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
 
