@@ -142,6 +142,8 @@ Compilable C Benchmarks for Code-Size Reduction](https://homepages.dcc.ufmg.br/~
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Accurate static estimators for program optimization](https://dl.acm.org/doi/abs/10.1145/178243.178251) - Tim A. Wagner, Vance Maverick, Susan L. Graham, and Michael A. Harrison. PLDI 1994. 
 
 #### Learning Program Representation
+- <img src="https://img.shields.io/badge/18-pages-green.svg" alt="18-pages" align="top"> [GraphCodeBERT: Pre-training Code Representations with Data Flow ](https://arxiv.org/pdf/2009.08366.pdf) - Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie LIU, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou. ICLR 2021.
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [CodeBERT:A Pre-Trained Model for Programming and Natural Languages](https://www.aclweb.org/anthology/2020.findings-emnlp.139.pdf) - Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. EMNLP 2020.
 - <img src="https://img.shields.io/badge/27-pages-green.svg" alt="27-pages" align="top"> [IR2VEC: LLVM IR Based Scalable Program Embeddings](https://dl.acm.org/doi/10.1145/3418463) - S. VenkataKeerthy, Rohit Aggarwal, Shalini Jain, Maunendra Sankar Desarkar, Ramakrishna Upadrasta and Y. N. Srikant. TACO 2020.
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Deep Program Structure Modeling Through Multi-Relational Graph-based Learning](https://zwang4.github.io/publications/pact20.pdf) - Guixin Ye, Zhanyong Tang, Huanting Wang, Jianbin Fang, Songfang Huang and Zheng Wang. PACT 2020.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Global Relational Models of Source Code](https://openreview.net/pdf?id=B1lnbRNtwr) - Vincent J. Hellendoorn, Charles Sutton, Rishabh Singh, Petros Maniatis, David Bieber, ICLR 2020. ([Data and Code](https://github.com/VHellendoorn/ICLR20-Great))
@@ -184,6 +186,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE). Polytechnic University of Milan 2018.
 
 ## Software
+- [CodeBert](https://github.com/microsoft/CodeBERT) -  pre-trained model for programming language ([paper](https://arxiv.org/pdf/2002.08155.pdf)).
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
 - [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)).
@@ -193,6 +196,8 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - [ONNX-MLIR](http://onnx.ai/onnx-mlir/) - Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure ([paper](https://arxiv.org/pdf/2008.08272.pdf)).
 
 ## Benchmarks and Datasets
+- [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A Machine Learning Benchmark Dataset for Code
+Understanding and Generation ([paper](https://arxiv.org/pdf/2102.04664.pdf))
 - [ANGHABENCH](http://cuda.dcc.ufmg.br/angha/benchmarks) - A suite with One Million Compilable C Benchmarks ([paper](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf))
 - [BHive](https://github.com/ithemal/bhive) - A Benchmark Suite and Measurement Framework for Validating x86-64 Basic Block Performance Models ([paper](https://groups.csail.mit.edu/commit/papers/19/ithemal-measurement.pdf)).
 - [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
