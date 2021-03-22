@@ -111,11 +111,11 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 
 #### Domain-specific Optimisation
+- <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Learning Nonlinear Loop Invariants with Gated Continuous Logic Networks](https://www.cs.columbia.edu/~rgu/publications/pldi20-yao.pdf) - J. Yao, G. Ryan, J. Wong, S. Jana, and R. Gu. PLDI 2020. 
 - <img src="https://img.shields.io/badge/16-pages-green.svg" alt="16-pages" align="top"> [Learning-based Memory Allocation for C++ Server Workloads](https://www.cs.utexas.edu/users/mckinley/papers/llama-asplos-2020.pdf) - Maas, Martin, David G. Andersen, Michael Isard, Mohammad Mahdi Javanmard, Kathryn S. McKinley, and Colin Raffel. ASPLOS 2020. [presetnation](https://www.youtube.com/watch?v=gs8m5W-xdDM&feature=emb_title)
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Bridging the gap between deep learning and sparse matrix format selection](https://people.engr.ncsu.edu/xshen5/Publications/ppopp18.pdf) - Yue Zhao, Jiajia Li, Chunhua Liao and Xipeng Shen. PPoPP 2018. 
 - <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Camel: Smart, Adaptive Energy Optimization for Mobile Web Interactions](http://eprints.whiterose.ac.uk/155720/1/paper.pdf) - Jie Ren, Y. Lu, Petteri Nurmi, Xiaoming Wang, Miao Ma, Ling Gao, Zhanyong Tang, Jie Zheng, and Zheng Wang. INFOCOM 2020. 
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Optimizing sorting with genetic algorithms](http://polaris.cs.uiuc.edu/~garzaran/doc/cgo05.pdf) - Xiaoming Li, Maria Jesus Garzaran, and David Padua. CGO 2005. 
-
 
 #### Languages and Compilation
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines](https://core.ac.uk/download/pdf/20024748.pdf) - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, and Saman Amarasinghe, PLDI 2013. 
