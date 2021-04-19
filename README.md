@@ -59,6 +59,8 @@ Polyhedron Model](https://www.infosun.fim.uni-passau.de/publications/docs/GGS+17
 
 
 #### Instruction-level Optimisation
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [AI Powered Compiler Techniques for DL Code Optimization
+](https://arxiv.org/pdf/2104.05573.pdf) - Sanket Tavarageri, Gagandeep Goyal, Sasikanth Avancha, Bharat Kaul, Ramakrishna Upadrasta. Arxiv.org, 2021. 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Deep Learning-based Hybrid Graph-Coloring Algorithm for Register Allocation](https://arxiv.org/abs/1912.03700) - Dibyendu Das, Shahid Asghar Ahmad, Kumar Venkataramanan. LLVM HPC Workshop, 2020. 
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [NeuroVectorizer: end-to-end vectorization with deep reinforcement learning](https://people.eecs.berkeley.edu/~krste/papers/neurovectorizer-cgo2020.pdf) - Ameer Haj-Ali, Nesreen K. Ahmed, Ted Willke, Yakun Sophia Shao, Krste Asanovic, and Ion Stoica. CGO 2020. 
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Unleashing the Power of Learning: An Enhanced Learning-Based Approach for Dynamic Binary Translation](https://www.usenix.org/system/files/atc19-song_0.pdf) - Changheng Song, Wenwen Wang, Pen-Chung Yew, Antonia Zhai, Weihua Zhang. USENIX ATC 2019.
