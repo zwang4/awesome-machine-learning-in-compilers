@@ -125,7 +125,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [PetaBricks: a language and compiler for algorithmic choice](http://people.csail.mit.edu/cychan/papers/2009pldi-petabricks.pdf) - Jason Ansel, Cy Chan, Yee Lok Wong, Marek Olszewski, Qin Zhao, Alan Edelman, and Saman Amarasinghe. PLDI 2009. 
 
 #### Code Size Reduction
-- [MLGO: a Machine Learning Guided Compiler Optimizations Framework](https://arxiv.org/abs/2101.04808) - Mircea Trofin, Yundi Qian, Eugene Brevdo, Zinan Lin, Krzysztof Choromanski, David Li. arXiv. [Code]
+-  <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [MLGO: a Machine Learning Guided Compiler Optimizations Framework](https://arxiv.org/abs/2101.04808) - Mircea Trofin, Yundi Qian, Eugene Brevdo, Zinan Lin, Krzysztof Choromanski, David Li. arXiv. [Code](https://github.com/google/ml-compiler-opt)
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [ANGHABENCH: a Suite with One Million
 Compilable C Benchmarks for Code-Size Reduction](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf) - Anderson Faustino da Silva, Bruno Conde Kind, Jose Wesley de Souza Magalhaes, Jeronimo Nunes Rocha, Breno Campos Ferreira Guimaraes, Fernando Magno Quintao Pereira. CGO 2021. [Code and Data](http://cuda.dcc.ufmg.br/angha/home)
 - <img src="https://img.shields.io/badge/7-pages-green.svg" alt="7-pages" align="top"> [Reinforcement Learning Guided Software Debloating](http://www.csl.sri.com/users/gehani/papers/MLSys-2019.DeepOCCAM.pdf) - Nham Le Van, Ashish Gehani, Arie Gurfinkel, Susmit Jha, and Jorge A. Navas. MLSys 2019.
