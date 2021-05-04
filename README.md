@@ -132,6 +132,8 @@ Compilable C Benchmarks for Code-Size Reduction](https://homepages.dcc.ufmg.br/~
 - <img src="https://img.shields.io/badge/9-pages-green.svg" alt="9-pages" align="top"> [Optimizing for reduced code space using genetic algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.1586&rep=rep1&type=pdf) - Keith D. Cooper, Philip J. Schielke, and Devika Subramanian. LCTES 1999. 
 
 #### Cost and Performance Models
+
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Neural Network-based Performance Prediction for Task Migration on S-NUCA Many-Cores](hhttps://ieeexplore.ieee.org/document/9190026) - Martin Rapp, Anuj Pathania, Tulika Mitra, Jörg Henkel, IEEE Transactions on Computers, 2021. 
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [A Deep Learning Based Cost Model for Automatic Code Optimization](https://proceedings.mlsys.org/paper/2021/file/3def184ad8f4755ff269862ea77393dd-Paper.pdf) - Riyadh Baghdadi, Massinissa Merouani, Mohamed-Hicham LEGHETTAS, Kamel Abdous, Taha Arbaoui, Karima BENATCHBA, Saman amarasinghe, MLSys 2021
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Comparative Code Structure Analysis using Deep Learning for Performance Prediction](https://arxiv.org/abs/2102.07660) - Nathan Pinnow, Tarek Ramadan, Tanzima Z. Islam, Chase Phelps, Jayaraman J. Thiagarajan, ISPASS 2021
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Extracting Clean Performance Models from Tainted Programs](https://ieeexplore.ieee.org/document/9139798) - Marcin Copik, Alexandru Calotoiu,  Tobias Grosser,  Nicolas Wicki,  Felix Wolf,  Torsten Hoefler. PPoPP 2021.
