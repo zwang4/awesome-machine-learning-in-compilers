@@ -34,6 +34,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 - <img src="https://img.shields.io/badge/34-pages-green.svg" alt="34-pages" align="top"> [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794) - Mingzhen Li, Yi Liu, Xiaoyan Liu, Qingxiao Sun, Xin You, Hailong Yang, Zhongzhi Luan, Lin Gan, Guangwen Yang, Depei Qian, IEEE Transactions on Parallel and Distributed Systems, 2021
 
 #### Iterative Compilation and Compiler Option Tuning
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Customized Monte Carlo Tree Search for LLVM/Polly's Composable Loop Optimization Transformations](https://arxiv.org/abs/2105.04555) - Jaehoon Koo, Prasanna Balaprakash, Michael Kruse, Xingfu Wu, Paul Hovland, Mary Hall. Arxiv.org, 2021. 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Improved basic block reordering](https://arxiv.org/pdf/1809.04676.pdf) - Andy Newell and Sergey Pupyrev. IEEE Transactions on Computers, 2020. 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Static Neural Compiler Optimization via Deep Reinforcement Learning](https://arxiv.org/abs/2008.08951) - Rahim Mammadli, Ali Jannesari, Felix Wolf. LLVM HPC Workshop, 2020. 
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Autotuning Search Space for Loop Transformations](https://arxiv.org/pdf/1809.04676.pdf) - Michael Kruse, Hal Finkel, Xingfu Wu. LLVM HPC Workshop, 2020. 
