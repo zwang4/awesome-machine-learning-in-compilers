@@ -18,6 +18,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
    - [Domain-specific Optimisation](#domain-specific-optimisation)
    - [Learning Program Representation](#learning-program-representation)
    - [Enabling ML in Compilers](#enabling-ml-in-compilers)
+   - [Memory/Cache Modeling/Analysis](#memory-modeling)
 - [Books](#books)
 - [Talks and Tutorials](#talks-and-tutorials)
 - [Software](#software)
@@ -184,6 +185,9 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Synthesizing Benchmarks for Predictive Modeling](https://www.pure.ed.ac.uk/ws/files/29479104/2017_cgo_1.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather ([slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)). CGO 2017.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Minimizing the cost of iterative compilation with active learning](http://homepages.inf.ed.ac.uk/hleather/publications/2017-minimitercomp-cgo.pdf) - William Ogilvie, Pavlos Petoumenos, Zheng Wang, and Hugh Leather. CGO 2017.
 
+### Memory/Cache Modeling/Analysis
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Learning Memory Access Patterns](http://proceedings.mlr.press/v80/hashemi18a/hashemi18a.pdf) - Milad Hashemi, Kevin Swersky, Jamie A. Smith, Grant Ayers, Heiner Litz, Jichuan Chang, Christos Kozyrakis, Parthasarathy Ranganathan. ICML 2018
+
 ## Books
 - <img src="https://img.shields.io/badge/118-pages-green.svg" alt="118-pages" align="top"> [Automatic Tuning of Compilers Using Machine Learning](https://link.springer.com/book/10.1007/978-3-319-71489-9) - Amir H. Ashouri, Gianluca Palermo, John Cavazos, and Cristina Silvano. Springer 2018.
 - <img src="https://img.shields.io/badge/377-pages-green.svg" alt="377-pages" align="top"> [Software Automatic Tuning - From Concepts to State-of-the-Art Results](https://www.springer.com/gp/book/9781441969347) - K Naono, K Teranishi, J Cavazos, and R Suda. Springer 2010.
@@ -206,6 +210,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - [ONNX-MLIR](http://onnx.ai/onnx-mlir/) - Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure ([paper](https://arxiv.org/pdf/2008.08272.pdf)).
 
 ## Benchmarks and Datasets
+- [Project CodeNet](https://github.com/IBM/Project_CodeNet) - Code samples written in 50+ programming languages, annotated with info, such as code size, memory footprint, CPU run time, and status (acceptance/error types. By IBM
 - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A Machine Learning Benchmark Dataset for Code
 Understanding and Generation ([paper](https://arxiv.org/pdf/2102.04664.pdf))
 - [ANGHABENCH](http://cuda.dcc.ufmg.br/angha/benchmarks) - A suite with One Million Compilable C Benchmarks ([paper](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf))
