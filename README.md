@@ -200,7 +200,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 
 ## Software
 - [CompilerGym](https://github.com/facebookresearch/CompilerGym) - reinforcement learning environments for compiler optimizations
-- [CodeBert](https://github.com/microsoft/CodeBERT) -  pre-trained model for programming language ([paper](https://arxiv.org/pdf/2002.08155.pdf)).
+- [CodeBert](https://github.com/microsoft/CodeBERT) -  pre-trained DNN models for programming languages ([paper](https://arxiv.org/pdf/2002.08155.pdf)).
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
 - [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)).
