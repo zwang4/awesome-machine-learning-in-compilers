@@ -202,7 +202,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE). Polytechnic University of Milan 2018.
 
 ## Software
-- [CompilerGym](https://github.com/facebookresearch/CompilerGym) - reinforcement learning environments for compiler optimizations
+- [CompilerGym](https://github.com/facebookresearch/CompilerGym) - reinforcement learning environments for compiler optimizations ([paper](https://arxiv.org/pdf/2109.08267.pdf)).
 - [CodeBert](https://github.com/microsoft/CodeBERT) -  pre-trained DNN models for programming languages ([paper](https://arxiv.org/pdf/2002.08155.pdf)).
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
