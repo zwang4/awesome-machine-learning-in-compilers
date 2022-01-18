@@ -218,6 +218,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - [ONNX-MLIR](http://onnx.ai/onnx-mlir/) - Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure ([paper](https://arxiv.org/pdf/2008.08272.pdf)).
 
 ## Benchmarks and Datasets
+- [TenSet: A Large-scale Program Performance Dataset for Learned Tensor Compilers](https://openreview.net/forum?id=aIfp8kLuvc9) - A dataset of tensor program performance records for six commonly used hardware platforms.
 - [The Alberta Workloads for the SPEC CPU® 2017 Benchmark Suite](https://webdocs.cs.ualberta.ca/~amaral/AlbertaWorkloadsForSPECCPU2017/) - Additional workloads for the SPEC CPU2017 Benchmark Suite. 
 - [Project CodeNet](https://github.com/IBM/Project_CodeNet) - Code samples written in 50+ programming languages, annotated with info, such as code size, memory footprint, CPU run time, and status (acceptance/error types)
 - [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A Machine Learning Benchmark Dataset for Code
