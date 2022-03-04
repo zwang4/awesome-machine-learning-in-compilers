@@ -189,6 +189,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle. CGO 2009.
    
 #### Enabling ML in Compilers
+- <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Automating Reinforcement Learning Architecture Design for Code Optimization](https://zwang4.github.io/publications/cc22.pdf) - Huanting Wang, Zhanyong Tang, Cheng Zhang, Jiaqi Zhao, Chris Cummins, Hugh Leather, Zheng Wang. CC 2022 ([code](https://github.com/HuantWang/SUPERSONIC))
 - <img src="https://img.shields.io/badge/43-pages-green.svg" alt="43-pages" align="top"> [Composable and Modular Code Generation in MLIR: A Structured and Retargetable Approach to Tensor Compiler Construction](https://arxiv.org/pdf/2202.03293.pdf) - Nicolas Vasilache, Oleksandr Zinenko, Aart J.C. Bik, Mahesh Ravishankar, Thomas Raoux, Alexander Belyaev, Matthias Springer, Tobias Gysi, Diego Caballero, Stephan Herhut, Stella Laurenzo, Albert Cohen. arXiV 2022
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Deep NLP-based co-evolvement for synthesizing code analysis from natural language](https://dl.acm.org/doi/10.1145/3446804.3446852) - Zifan  Nan， Hui  Guan，Xipeng Shen,  Chunhua  Liao. CC 2021
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Synthesizing Benchmarks for Predictive Modeling](https://www.pure.ed.ac.uk/ws/files/29479104/2017_cgo_1.pdf) - Chris Cummins, Pavlos Petoumenos, Zheng Wang, and Hugh Leather ([slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)). CGO 2017.
@@ -208,7 +209,8 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE). Polytechnic University of Milan 2018.
 
 ## Software
-- [CompilerGym](https://github.com/facebookresearch/CompilerGym) - reinforcement learning environments for compiler optimizations ([paper](https://arxiv.org/pdf/2109.08267.pdf)).
+- [Supersonic](https://github.com/HuantWang/SUPERSONIC) - Automate reinforcement learning architecture design ([paper](https://zwang4.github.io/publications/cc22.pdf)).
+- [CompilerGym](https://github.com/facebookresearch/CompilerGym) - Reinforcement learning environments for compiler optimizations ([paper](https://arxiv.org/pdf/2109.08267.pdf)).
 - [CodeBert](https://github.com/microsoft/CodeBERT) -  pre-trained DNN models for programming languages ([paper](https://arxiv.org/pdf/2002.08155.pdf)).
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
