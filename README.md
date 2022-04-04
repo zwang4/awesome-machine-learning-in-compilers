@@ -36,6 +36,8 @@ A curated list of awesome research papers, datasets, and tools for applying mach
 - <img src="https://img.shields.io/badge/34-pages-green.svg" alt="34-pages" align="top"> [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794) - Mingzhen Li, Yi Liu, Xiaoyan Liu, Qingxiao Sun, Xin You, Hailong Yang, Zhongzhi Luan, Lin Gan, Guangwen Yang, Depei Qian, IEEE Transactions on Parallel and Distributed Systems, 2021
 
 #### Iterative Compilation and Compiler Option Tuning
+- <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [SRTuner: Effective Compiler Optimization
+Customization by Exposing Synergistic Relations](https://ieeexplore.ieee.org/document/9741263) - Sunghyun Park, Salar Latifi, Yongjun Park, Armand Behroozi, Byungsoo Jeon, Scott Mahlke. CGO 2022. 
 - <img src="https://img.shields.io/badge/25-pages-green.svg" alt="25-pages" align="top"> [Iterative Compilation Optimization Based on Metric Learning and Collaborative Filtering](https://dl.acm.org/doi/full/10.1145/3480250) - Hongzhi Liu, Jie Luo, Ying Li, Zhonghai Wu. ACM TACO 2022. 
 - <img src="https://img.shields.io/badge/17-pages-green.svg" alt="17-pages" align="top"> [Bayesian Optimization is Superior to Random Search for
 Machine Learning Hyperparameter Tuning: Analysis of the Black-Box Optimization Challenge 2020](https://arxiv.org/pdf/2104.10201.pdf) - Ryan Turner, David Eriksson, Michael McCourt, Juha Kiili, Eero Laaksonen, Zhen Xu, Isabelle Guyon. arXiv 2021. 
