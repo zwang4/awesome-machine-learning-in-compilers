@@ -131,6 +131,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 
 #### Domain-specific Optimisation
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [moTuner: a compiler-based auto-tuning approach for mixed-precision operators](https://dl.acm.org/doi/abs/10.1145/3528416.3530231) -  Zewei Mo, Zejia Lin, Xianwei Zhang, Yutong Lu. CF 2022
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Collage: Automated Integration of Deep Learning Backends](https://arxiv.org/pdf/2111.00655.pdf) - Byungsoo Jeon, Sunghyun Park, Peiyuan Liao, Sheng Xu, Tianqi Chen, Zhihao Jia. arXiV 2022
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Learning Nonlinear Loop Invariants with Gated Continuous Logic Networks](https://www.cs.columbia.edu/~rgu/publications/pldi20-yao.pdf) - J. Yao, G. Ryan, J. Wong, S. Jana, and R. Gu. PLDI 2020. 
 - <img src="https://img.shields.io/badge/16-pages-green.svg" alt="16-pages" align="top"> [Learning-based Memory Allocation for C++ Server Workloads](https://www.cs.utexas.edu/users/mckinley/papers/llama-asplos-2020.pdf) - Maas, Martin, David G. Andersen, Michael Isard, Mohammad Mahdi Javanmard, Kathryn S. McKinley, and Colin Raffel. ASPLOS 2020. [presetnation](https://www.youtube.com/watch?v=gs8m5W-xdDM&feature=emb_title)
