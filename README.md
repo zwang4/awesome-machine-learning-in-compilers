@@ -135,6 +135,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 
 #### Domain-specific Optimisation
+- <img src="https://img.shields.io/badge/18-pages-green.svg" alt="18-pages" align="top"> [Tensor Program Optimization with Probabilistic Programs](https://arxiv.org/pdf/2205.13603.pdf) -  Junru Shao, Xiyou Zhou, Siyuan Feng, Bohan Hou, Ruihang Lai, Hongyi Jin, Wuwei Lin, Masahiro Masuda, Cody Hao Yu, Tianqi Chen. NeurIPS 2022
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [moTuner: a compiler-based auto-tuning approach for mixed-precision operators](https://dl.acm.org/doi/abs/10.1145/3528416.3530231) -  Zewei Mo, Zejia Lin, Xianwei Zhang, Yutong Lu. CF 2022
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Collage: Automated Integration of Deep Learning Backends](https://arxiv.org/pdf/2111.00655.pdf) - Byungsoo Jeon, Sunghyun Park, Peiyuan Liao, Sheng Xu, Tianqi Chen, Zhihao Jia. arXiV 2022
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Learning Nonlinear Loop Invariants with Gated Continuous Logic Networks](https://www.cs.columbia.edu/~rgu/publications/pldi20-yao.pdf) - J. Yao, G. Ryan, J. Wong, S. Jana, and R. Gu. PLDI 2020. 
