@@ -225,8 +225,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 
 ## Talks and Tutorials
 - Saman Amarasinghe, [Compiler 2.0: Using Machine Learning to Modernize Compiler Technology](https://www.youtube.com/watch?v=a1w_NKDVdkI). LCTES 2020.
-- Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](http://amirashouri.ca/resources/Amir_CompileAutotuning_Talk_2019_Google.pdf). Google Brain 2019.
-- Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE). Polytechnic University of Milan 2018.
+- Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE) ([slides](http://amirashouri.ca/resources/Amir_CompileAutotuning_Talk_2019_Google.pdf)). Polytechnic University of Milan 2018.
 
 ## Software
 - [Supersonic](https://github.com/HuantWang/SUPERSONIC) - Automate reinforcement learning architecture design ([paper](https://zwang4.github.io/publications/cc22.pdf)).
@@ -249,9 +248,7 @@ Understanding and Generation ([paper](https://arxiv.org/pdf/2102.04664.pdf))
 - [ANGHABENCH](http://cuda.dcc.ufmg.br/angha/benchmarks) - A suite with One Million Compilable C Benchmarks ([paper](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf))
 - [BHive](https://github.com/ithemal/bhive) - A Benchmark Suite and Measurement Framework for Validating x86-64 Basic Block Performance Models ([paper](https://groups.csail.mit.edu/commit/papers/19/ithemal-measurement.pdf)).
 - [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
-- [PolyBench - Dataset](https://github.com/stefanocereda/polybench_data) - Multiple datasets for Polybench ([paper](https://dl.acm.org/doi/abs/10.1145/3372799.3394361 ))
-- [PolyBench](https://github.com/cavazos-lab/PolyBench-ACC) - 31 Stencil and Linear-algebra benchmarks with datasets and driver scripts.
-- [PolyBench - Original](http://web.cs.ucla.edu/~pouchet/software/polybench/) - 30 Stencil and Linear-algebra benchmarks with datasets and driver scripts.
+- [PolyBench](http://web.cs.ucla.edu/~pouchet/software/polybench/) - 30 Stencil and Linear-algebra benchmarks with datasets and driver scripts. See also: [GPU version](https://github.com/cavazos-lab/PolyBench-ACC), [pre-computed datasets](https://github.com/stefanocereda/polybench_data) ([paper](https://dl.acm.org/doi/abs/10.1145/3372799.3394361)).
 - [DeepDataFlow](https://github.com/ChrisCummins/ProGraML/blob/master/programl/Documentation/DataflowDataset.md) - 469k LLVM-IR files and 8.6B data-flow analysis labels for classification ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [devmap](https://github.com/ChrisCummins/paper-end2end-dl) - 650 OpenCL benchmark features and CPU/GPU classification labels ([paper](https://chriscummins.cc/pub/2017-pact.pdf); [slides](https://speakerdeck.com/chriscummins/end-to-end-deep-learning-of-optimization-heuristics-pact-17)).
 
