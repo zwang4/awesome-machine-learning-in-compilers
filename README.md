@@ -86,6 +86,7 @@ Polyhedron Model](https://www.infosun.fim.uni-passau.de/publications/docs/GGS+17
 - <img src="https://img.shields.io/badge/7-pages-green.svg" alt="7-pages" align="top"> [Learning to schedule straight-line code](http://papers.nips.cc/paper/1349-learning-to-schedule-straight-line-code.pdf) - J. Eliot B. Moss, Paul E. Utgoff, John Cavazos, Doina Precup, Darko Stefanovic, Carla E. Brodley, and David Scheeff. NeurIPS 1998. 
 
 #### Auto-tuning and Design Space Exploration
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [(De/Re)-Compositions Expressed Systematically via MDH-Based Schedules](https://doi.org/10.1145/3578360.3580269) - Ari Rasch , Richard Schulze , Denys Shabalin , Anne Elster , Sergei Gorlatch , Mary Hall. CC 2023. 
 - <img src="https://img.shields.io/badge/23-pages-green.svg" alt="23-pages" align="top"> [Autotuning Convolutions is Easier Than You Think
 ](https://dl.acm.org/doi/10.1145/3570641) - Nicolas Tollenaere , Guillaume Iooss , Stéphane Pouget , Hugo Brunie , Christophe Guillon , Albert Cohen , P. Sadayappan , Fabrice Rastello. ACM TACO 2022. 
 - <img src="https://img.shields.io/badge/6-pages-green.svg" alt="6-pages" align="top"> [Glimpse: Mathematical Embedding of Hardware Specification for Neural Compilation](https://dl.acm.org/doi/abs/10.1145/3489517.3530590) - Byung Hoon Ahn, Sean Kinzer, Hadi Esmaeilzadeh. DAC 2022.
