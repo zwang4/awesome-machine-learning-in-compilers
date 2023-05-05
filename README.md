@@ -86,6 +86,7 @@ Polyhedron Model](https://www.infosun.fim.uni-passau.de/publications/docs/GGS+17
 - <img src="https://img.shields.io/badge/7-pages-green.svg" alt="7-pages" align="top"> [Learning to schedule straight-line code](http://papers.nips.cc/paper/1349-learning-to-schedule-straight-line-code.pdf) - J. Eliot B. Moss, Paul E. Utgoff, John Cavazos, Doina Precup, Darko Stefanovic, Carla E. Brodley, and David Scheeff. NeurIPS 1998. 
 
 #### Auto-tuning and Design Space Exploration
+- <img src="https://img.shields.io/badge/24-pages-green.svg" alt="24-pages" align="top"> [BaCO: A Fast and Portable Bayesian Compiler Optimization Framework](https://arxiv.org/pdf/2212.11142.pdf) - Erik Hellsten, Artur Souza, Johannes Lenfers, Rubens Lacouture, Olivia Hsu, Adel Ejjeh, Fredrik Kjolstad, Michel Steuwer, Kunle Olukotun, Luigi Nardi. ASPLOS 2024. 
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [(De/Re)-Compositions Expressed Systematically via MDH-Based Schedules](https://doi.org/10.1145/3578360.3580269) - Ari Rasch , Richard Schulze , Denys Shabalin , Anne Elster , Sergei Gorlatch , Mary Hall. CC 2023. 
 - <img src="https://img.shields.io/badge/23-pages-green.svg" alt="23-pages" align="top"> [Autotuning Convolutions is Easier Than You Think
 ](https://dl.acm.org/doi/10.1145/3570641) - Nicolas Tollenaere , Guillaume Iooss , Stéphane Pouget , Hugo Brunie , Christophe Guillon , Albert Cohen , P. Sadayappan , Fabrice Rastello. ACM TACO 2022. 
