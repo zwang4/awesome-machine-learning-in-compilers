@@ -182,6 +182,7 @@ Compilable C Benchmarks for Code-Size Reduction](https://homepages.dcc.ufmg.br/~
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Accurate static estimators for program optimization](https://dl.acm.org/doi/abs/10.1145/178243.178251) - Tim A. Wagner, Vance Maverick, Susan L. Graham, and Michael A. Harrison. PLDI 1994. 
 
 #### Learning Program Representation
+- <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Performance Embeddings: A Similarity-Based Transfer Tuning Approach to Performance Optimization](https://dl.acm.org/doi/abs/10.1145/3533767.3534383) -  L Trümper, T Ben-Nun, P Schaad, A Calotoiu, T Hoefler. ICS 2023.
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [Improving cross-platform binary analysis using representation learning via graph alignment](https://dl.acm.org/doi/abs/10.1145/3533767.3534383) -  Geunwoo Kim,  Sanghyun Hong, Michael Franz,  Dokyung Song. ISSTA 2022.
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Comparative Code Structure Analysis using Deep Learning for Performance Prediction
 ](https://arxiv.org/pdf/2102.07660.pdf) - DNathan Pinnow, Tarek Ramadan, Tanzima Z. Islam, Chase Phelps, Jayaraman J. Thiagarajan. ISPASS 2021.
