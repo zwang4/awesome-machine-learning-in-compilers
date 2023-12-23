@@ -71,6 +71,8 @@ Polyhedron Model](https://www.infosun.fim.uni-passau.de/publications/docs/GGS+17
 
 
 #### Instruction-level Optimisation
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [RL4ReAl: Reinforcement Learning for Register Allocation](https://arxiv.org/pdf/2204.02013.pdf) - S. VenkataKeerthy, Siddharth Jain, Anilava Kundu, Rohit Aggarwal, Albert Cohen, Ramakrishna Upadrasta. CC 2023.
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Reinforcement Learning assisted Loop Distribution for Locality and Vectorization](https://www.researchgate.net/publication/365475992_Reinforcement_Learning_assisted_Loop_Distribution_for_Locality_and_Vectorization) - Shalini Jain, S. VenkataKeerthy, Rohit Aggarwal, Tharun Kumar Dangeti, Dibyendu Das, Ramakrishna Upadrasta. LLVM HPC Workshop 2022.
 - <img src="https://img.shields.io/badge/17-pages-green.svg" alt="17-pages" align="top"> [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4.pdf) -  Fawzi, Alhussein, Matej Balog, Aja Huang, Thomas Hubert, Bernardino Romera-Paredes, Mohammadamin Barekatain, Alexander Novikov et al. Nature 2022
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [A Reinforcement Learning Environment for Polyhedral Optimizations](https://arxiv.org/pdf/2104.13732.pdf) - Alexander Brauckmann, Andrés Goens, Jeronimo Castrillon. PACT, 2021.
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [AI Powered Compiler Techniques for DL Code Optimization](https://arxiv.org/pdf/2104.05573.pdf) - Sanket Tavarageri, Gagandeep Goyal, Sasikanth Avancha, Bharat Kaul, Ramakrishna Upadrasta. Arxiv.org, 2021. 
@@ -158,6 +160,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 #### Code Size Reduction
 - <img src="https://img.shields.io/badge/15-pages-green.svg" alt="15-pages" align="top"> [Learning Compiler Pass Orders using Coreset and Normalized Value Prediction](https://arxiv.org/pdf/2301.05104.pdf) - Youwei Liang, Kevin Stone, Ali Shameli, Chris Cummins, Mostafa Elhoushi, Jiadong Guo, Benoit Steiner, Xiaomeng Yang, Pengtao Xie, Hugh Leather, Yuandong Tian. ICML 2023.
+- <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [POSET-RL: Phase ordering for Optimizing Size and Execution Time using Reinforcement Learning](https://ieeexplore.ieee.org/document/9804673) - Shalini Jain, Yashas Andaluri, S. VenkataKeerthy, Ramakrishna Upadrasta. ISPASS 2022.
 - <img src="https://img.shields.io/badge/9-pages-green.svg" alt="9-pages" align="top"> [Using machine learning to predict the code size impact of duplication heuristics in a dynamic compiler](https://dl.acm.org/doi/10.1145/3475738.3480943?sid=SCITRUS) - Raphael Mosaner, David Leopoldseder, Lukas Stadler, and Hanspeter Mössenböck. MPLR 2021.
 -  <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [MLGO: a Machine Learning Guided Compiler Optimizations Framework](https://arxiv.org/abs/2101.04808) - Mircea Trofin, Yundi Qian, Eugene Brevdo, Zinan Lin, Krzysztof Choromanski, David Li. arXiv. [Code](https://github.com/google/ml-compiler-opt)
 - <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [ANGHABENCH: a Suite with One Million
@@ -219,6 +222,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/46-pages-green.svg" alt="46-pages" align="top"> [Program Representations for Predictive Compilation: State of Affairs in the Early 20's](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoJCL22.pdf) - Anderson Faustino da Silva, Edson Borin, Fernando Magno Quintao Pereira, Nilton Luiz Queiroz Junior and Otavio Oliveira Napoli. JCL 2022. [Code and Data](https://github.com/otavioon/COLA-2022-Tools)
    
 #### Enabling ML in Compilers and Systems Optimisation
+- <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [The Next 700 ML-Enabled Compiler Optimizations](https://arxiv.org/pdf/2311.10800.pdf) - S. VenkataKeerthy, Siddharth Jain, Umesh Kalvakuntla, Pranav Sai Gorantla, Rajiv S Chitale, Eugene Brevdo, Albert Cohen, Mircea Trofin, Ramakrishna Upadrasta. arXiV 2023. 
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [BenchPress: A Deep Active Benchmark Generator
 ](https://arxiv.org/pdf/2208.06555.pdf) - Foivos Tsimpourlas, Pavlos Petoumenos, Min Xu, Chris Cummins, Kim Hazelwood, Ajitha Rajan, Hugh Leather. PACT 2022 ([code](https://github.com/fivosts/BenchPress))
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Automating Reinforcement Learning Architecture Design for Code Optimization](https://zwang4.github.io/publications/cc22.pdf) - Huanting Wang, Zhanyong Tang, Cheng Zhang, Jiaqi Zhao, Chris Cummins, Hugh Leather, Zheng Wang. CC 2022 ([code](https://github.com/HuantWang/SUPERSONIC))
@@ -249,6 +253,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - [Supersonic](https://github.com/HuantWang/SUPERSONIC) - Automate reinforcement learning architecture design ([paper](https://zwang4.github.io/publications/cc22.pdf)).
 - [CompilerGym](https://github.com/facebookresearch/CompilerGym) - Reinforcement learning environments for compiler optimizations ([paper](https://arxiv.org/pdf/2109.08267.pdf)).
 - [CodeBert](https://github.com/microsoft/CodeBERT) -  pre-trained DNN models for programming languages ([paper](https://arxiv.org/pdf/2002.08155.pdf)).
+- [IR2Vec](https://github.com/IITH-Compilers/IR2Vec) - LLVM IR based program embeddings for machine learning ([paper](https://arxiv.org/pdf/1909.06228.pdf)).
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
 - [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)).
