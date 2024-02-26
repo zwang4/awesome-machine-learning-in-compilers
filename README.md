@@ -221,7 +221,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [A Game-Based Framework to Compare Program Classifiers and Evaders](https://homepages.dcc.ufmg.br/~fernando/publications/papers/CGO23_ThaisDamasio.pdf) - Thais Damasio, Michael Canesche, Vinicius Pacheco, Anderson Faustino da Silva, Marcus Botacin and Fernando Magno Quintao Pereira. CGO 2023. [Code and Data](https://zenodo.org/record/7374649)
    
 #### Enabling ML in Compilers and Systems Optimisation
-- <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [The Next 700 ML-Enabled Compiler Optimizations](https://arxiv.org/pdf/2311.10800.pdf) - S. VenkataKeerthy, Siddharth Jain, Umesh Kalvakuntla, Pranav Sai Gorantla, Rajiv S Chitale, Eugene Brevdo, Albert Cohen, Mircea Trofin, Ramakrishna Upadrasta. arXiV 2023. 
+- <img src="https://img.shields.io/badge/13-pages-green.svg" alt="13-pages" align="top"> [The Next 700 ML-Enabled Compiler Optimizations](https://arxiv.org/pdf/2311.10800.pdf) - S. VenkataKeerthy, Siddharth Jain, Umesh Kalvakuntla, Pranav Sai Gorantla, Rajiv S Chitale, Eugene Brevdo, Albert Cohen, Mircea Trofin, Ramakrishna Upadrasta. CC 2024. 
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [BenchPress: A Deep Active Benchmark Generator
 ](https://arxiv.org/pdf/2208.06555.pdf) - Foivos Tsimpourlas, Pavlos Petoumenos, Min Xu, Chris Cummins, Kim Hazelwood, Ajitha Rajan, Hugh Leather. PACT 2022 ([code](https://github.com/fivosts/BenchPress))
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [Automating Reinforcement Learning Architecture Design for Code Optimization](https://zwang4.github.io/publications/cc22.pdf) - Huanting Wang, Zhanyong Tang, Cheng Zhang, Jiaqi Zhao, Chris Cummins, Hugh Leather, Zheng Wang. CC 2022 ([code](https://github.com/HuantWang/SUPERSONIC))
@@ -249,6 +249,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE) ([slides](http://amirashouri.ca/resources/Amir_CompileAutotuning_Talk_2019_Google.pdf)). Polytechnic University of Milan 2018.
 
 ## Software
+- [ML-Compiler-Bridge](https://github.com/IITH-Compilers/ML-Compiler-Bridge) - Library to interface Compilers and ML models for ML-Enabled Compiler Optimizations ([paper](https://arxiv.org/pdf/2311.10800.pdf)).
 - [Supersonic](https://github.com/HuantWang/SUPERSONIC) - Automate reinforcement learning architecture design ([paper](https://zwang4.github.io/publications/cc22.pdf)).
 - [CompilerGym](https://github.com/facebookresearch/CompilerGym) - Reinforcement learning environments for compiler optimizations ([paper](https://arxiv.org/pdf/2109.08267.pdf)).
 - [CodeBert](https://github.com/microsoft/CodeBERT) -  pre-trained DNN models for programming languages ([paper](https://arxiv.org/pdf/2002.08155.pdf)).
