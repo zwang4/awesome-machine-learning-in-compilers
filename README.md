@@ -146,6 +146,7 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 
 #### Domain-specific Optimisation
+- <img src="https://img.shields.io/badge/10-pages-green.svg" alt="10-pages" align="top"> [Seer: Predictive Runtime Kernel Selection for Irregular Problems](https://ieeexplore.ieee.org/abstract/document/10444812) -  Ryan Swann, Muhammad Osama, Karthik Sangaiah, Jalal Mahmud. CGO 2024
 - <img src="https://img.shields.io/badge/18-pages-green.svg" alt="18-pages" align="top"> [Tensor Program Optimization with Probabilistic Programs](https://arxiv.org/pdf/2205.13603.pdf) -  Junru Shao, Xiyou Zhou, Siyuan Feng, Bohan Hou, Ruihang Lai, Hongyi Jin, Wuwei Lin, Masahiro Masuda, Cody Hao Yu, Tianqi Chen. NeurIPS 2022
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [moTuner: a compiler-based auto-tuning approach for mixed-precision operators](https://dl.acm.org/doi/abs/10.1145/3528416.3530231) -  Zewei Mo, Zejia Lin, Xianwei Zhang, Yutong Lu. CF 2022
 - <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [Collage: Automated Integration of Deep Learning Backends](https://dl.acm.org/doi/10.1145/3559009.3569651) - Byungsoo Jeon, Sunghyun Park, Peiyuan Liao, Sheng Xu, Tianqi Chen, Zhihao Jia. PACT 2022
