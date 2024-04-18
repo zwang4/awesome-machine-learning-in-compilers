@@ -18,7 +18,7 @@ A curated list of awesome research papers, datasets, and tools for applying mach
    - [Domain-specific Optimisation](#domain-specific-optimisation)
    - [Learning Program Representation](#learning-program-representation)
    - [Enabling ML in Compilers and Systems Optimisation](#enabling-ml-in-compilers-and-systems-optimisation)
-   - [Memory/Cache Modeling/Analysis](#memory-modeling)
+   - [Memory/Cache Modeling/Analysis](#memorycache-modelinganalysis)
 - [Books](#books)
 - [Talks and Tutorials](#talks-and-tutorials)
 - [Software](#software)
