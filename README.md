@@ -257,6 +257,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE) ([slides](http://amirashouri.ca/resources/Amir_CompileAutotuning_Talk_2019_Google.pdf)). Polytechnic University of Milan 2018.
 
 ## Software
+- [PROM](https://github.com/HuantWang/PROM/) - A Python Toolkit to help identify ML model misprediction after deployment ([paper](https://arxiv.org/pdf/2501.00298)).
 - [ML-Compiler-Bridge](https://github.com/IITH-Compilers/ML-Compiler-Bridge) - Library to interface Compilers and ML models for ML-Enabled Compiler Optimizations ([paper](https://arxiv.org/pdf/2311.10800.pdf)).
 - [Supersonic](https://github.com/HuantWang/SUPERSONIC) - Automate reinforcement learning architecture design ([paper](https://zwang4.github.io/publications/cc22.pdf)).
 - [CompilerGym](https://github.com/facebookresearch/CompilerGym) - Reinforcement learning environments for compiler optimizations ([paper](https://arxiv.org/pdf/2109.08267.pdf)).
@@ -264,7 +265,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - [IR2Vec](https://github.com/IITH-Compilers/IR2Vec) - LLVM IR based program embeddings for machine learning ([paper](https://arxiv.org/pdf/1909.06228.pdf)).
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
-- [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)).
+- [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for CPU, GPU and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)).
 - [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf); [slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)).
 - [COBAYN](https://github.com/amirjamez/COBAYN) - Compiler Autotuning using BNs ([paper](http://amirashouri.ca/resources/COBAYN-ashouri_taco16.pdf)).
 - [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
