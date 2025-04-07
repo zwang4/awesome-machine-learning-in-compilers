@@ -255,7 +255,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/377-pages-green.svg" alt="377-pages" align="top"> [Software Automatic Tuning - From Concepts to State-of-the-Art Results](https://www.springer.com/gp/book/9781441969347) - K Naono, K Teranishi, J Cavazos, and R Suda. Springer 2010.
 
 ## Talks and Tutorials
-- Tianqi Chen, etc., [MLC: Machine Learning Compiler](https://mlc.ai/index.html). OcotoML 2022.
+- Tianqi Chen, etc., [MLC: Machine Learning Compiler](https://mlc.ai/index.html)([GitHub](https://github.com/mlc-ai/mlc-en)). OcotoML 2022.
 - Saman Amarasinghe, [Compiler 2.0: Using Machine Learning to Modernize Compiler Technology](https://www.youtube.com/watch?v=a1w_NKDVdkI). LCTES 2020.
 - Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE) ([slides](http://amirashouri.ca/resources/Amir_CompileAutotuning_Talk_2019_Google.pdf)). Polytechnic University of Milan 2018.
 
@@ -269,6 +269,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
 - [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for CPU, GPU and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)).
+- [MLC-LLM](https://github.com/mlc-ai/mlc-llm) - A machine learning compiler and high-performance deployment engine for large language models (Reference techniques: [paper](https://arxiv.org/pdf/2207.04296), [paper](https://arxiv.org/pdf/2205.13603) and [TVM](https://tvm.apache.org/)).
 - [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf); [slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)).
 - [COBAYN](https://github.com/amirjamez/COBAYN) - Compiler Autotuning using BNs ([paper](http://amirashouri.ca/resources/COBAYN-ashouri_taco16.pdf)).
 - [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
