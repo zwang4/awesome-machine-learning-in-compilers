@@ -17,8 +17,8 @@ A curated list of awesome research papers, datasets, and tools for applying mach
    - [Cost and Performance Models](#cost-and-performance-models)
    - [Domain-specific Optimisation](#domain-specific-optimisation)
    - [Learning Program Representation](#learning-program-representation)
-   - [Enabling ML in Compilers and Systems Optimisation](#enabling-ml-in-compilers-and-systems-optimisation)
-   - [Memory/Cache Modeling/Analysis](#memorycache-modelinganalysis)
+   - [ML for Compilers and Systems Optimisation](#ml-for-compilers-and-systems-optimisation)
+   - [Memory/Cache Modelling/Analysis](#memorycache-modelinganalysis)
 - [Books](#books)
 - [Talks and Tutorials](#talks-and-tutorials)
 - [Software](#software)
@@ -232,7 +232,8 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - <img src="https://img.shields.io/badge/11-pages-green.svg" alt="11-pages" align="top"> [Automatic feature generation for machine learning based optimizing compilation](http://homepages.inf.ed.ac.uk/hleather/publications/2009_autofeatures_cgo.pdf) - Hugh Leather, Edwin Bonilla, and Michael O'Boyle. CGO 2009.
 - <img src="https://img.shields.io/badge/14-pages-green.svg" alt="14-pages" align="top"> [A Game-Based Framework to Compare Program Classifiers and Evaders](https://homepages.dcc.ufmg.br/~fernando/publications/papers/CGO23_ThaisDamasio.pdf) - Thais Damasio, Michael Canesche, Vinicius Pacheco, Anderson Faustino da Silva, Marcus Botacin and Fernando Magno Quintao Pereira. CGO 2023. [Code and Data](https://zenodo.org/record/7374649)
    
-#### Enabling ML in Compilers and Systems Optimisation
+#### ML for Compilers and Systems Optimisation
+- <img src="https://img.shields.io/badge/12-pages-green.svg" alt="12-pages" align="top"> [DFA-Net: A Compiler-Specific Neural Architecture for Robust Generalization in Data Flow Analyses](https://cfaed.tu-dresden.de/files/Images/people/chair-cc/publications/2503_Brauckmann_CC.pdf) - Alexander Brauckmann, Anderson Faustino da Silva, Gabriel Synnaeve, Michael FP O’Boyle, Jeronimo Castrillon, Hugh Leather. CC 2025.
 - <img src="https://img.shields.io/badge/25-pages-green.svg" alt="25-pages" align="top"> [Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations](https://research.csc.ncsu.edu/picture/publications/papers/pldi2025) - Xiangwei Wang, Xinning Hui, Chunhua Liao, Xipeng Shen. PLDI 2025.
 - <img src="https://img.shields.io/badge/17-pages-green.svg" alt="17-pages" align="top"> [Enhancing Deployment-Time Predictive Model Robustness for Code Analysis and Optimization](https://arxiv.org/pdf/2501.00298) - Huanting Wang, Patrick Lenihan, Zheng Wang. CGO 2025. ([Code](https://github.com/HuantWang/PROM/))
 - <img src="https://img.shields.io/badge/19-pages-green.svg" alt="19-pages" align="top"> [The MLIR Transform Dialect - Your compiler is more powerful than you think](https://arxiv.org/pdf/2409.03864) - Martin Paul Lücke, Oleksandr Zinenko, William S. Moses, Michel Steuwer, Albert Cohen. Arxiv 2024.
