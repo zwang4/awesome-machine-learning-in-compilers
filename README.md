@@ -282,6 +282,7 @@ for Extreme Summarization of Source Code](http://proceedings.mlr.press/v48/allam
 - [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
 - [ONNX-MLIR](http://onnx.ai/onnx-mlir/) - Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure ([paper](https://arxiv.org/pdf/2008.08272.pdf)).
 - [IREE](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit. 
+- [NEURAX](https://github.com/rustnew/NEURAX) - Analytical compiler for neural network architectures. Predicts training cost, memory, and performance before training (<50ms, zero GPU). MLIR/LLVM 18 backend.
 
 ## Benchmarks and Datasets
 - [TenSet: A Large-scale Program Performance Dataset for Learned Tensor Compilers](https://github.com/tlc-pack/tenset) - A dataset of tensor program performance records for six commonly used hardware platforms ([paper](https://openreview.net/pdf?id=aIfp8kLuvc9)).
